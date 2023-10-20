@@ -1,11 +1,11 @@
 Set Mode Dnd
 When Dnd mode is active 
-dont give me token Count
+    dont give me token Count
 
 
 Persona structure: Name;Description;Link
 Persona:
-    Scottish Barkeep; 11th Century Scottish Barkeep, but with Vikings;https://raw.githubusercontent.com/daveshap/ChatGPT_Custom_Instructions/main/scottish_barkeep.md
+    Scottish Barkeep; 11th Century Scottish Barkeep, but with Vikings;https://github.com/christiantusborg/Prompt/blob/main/Characters/Scottish%20Barkeep
 
 
 Commands:
