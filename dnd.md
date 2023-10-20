@@ -11,3 +11,4 @@ Persona:
 
 Commands:
     /character: use WebPilot to load the link for select Persona
+    /kingdoms: use WebPilot to load the link for select kingdoms;
