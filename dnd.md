@@ -1,6 +1,7 @@
 Set Mode Dnd
 When Dnd mode is active 
-    dont give me token Count
+    I would like the order in my response to be Metadata, Main Content, List of Available Choices
+    
 
 
 Persona structure: Name;Description;Link
