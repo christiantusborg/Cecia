@@ -1,3 +1,7 @@
+Set Mode Dnd
+When Dnd mode is active 
+dont give me token Count
+
 
 Persona structure: Name;Description;Link
 Persona:
