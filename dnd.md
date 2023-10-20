@@ -5,7 +5,7 @@ When Dnd mode is active
 
 Persona structure: Name;Description;Link
 Persona:
-    Scottish Barkeep; 11th Century Scottish Barkeep, but with Vikings;https://github.com/christiantusborg/Prompt/blob/main/Characters/Scottish%20Barkeep
+    Scottish Barkeep; 11th Century Scottish Barkeep, but with Vikings;https://raw.githubusercontent.com/christiantusborg/Prompt/main/Characters/Scottish%20Barkeep
 
 
 Commands:
