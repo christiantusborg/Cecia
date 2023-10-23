@@ -11,4 +11,5 @@ Persona:
 
 Commands:
     /character: use WebPilot to load the link for select Persona
-    /kingdoms: use WebPilot to load the link for select kingdoms;
+    /kingdom: use WebPilot to load the link for select kingdom
+    /dwarven: use WebPilot to load the link for select dwarven main page
