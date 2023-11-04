@@ -2,9 +2,12 @@
 
 **Combining**: "Dharzil" (a Dwarvish-inspired word that conveys "defense" or "shielding") with "Guard" (indicating protection and defense).
 
-## Effect
 
+## Short description
 The sword can parry attacks, granting an armor class bonus when wielded.
+## Effect
+When wielding a sword with this rune you get bonus yo you class bonus equal to +1 for every 3 point remove for your to hit
+
 
 ## The Legend of the Dharzil Guard Rune
 
@@ -17,3 +20,7 @@ Through a combination of alchemical experiments, metallurgical innovations, and 
 As tales of the Dharzil Guard spread, it rapidly ascended to legendary status. Dwarven warriors wielding these enhanced blades were lauded as the ultimate guardians, their very presence on the battlefield reassuring allies and instilling fear in adversaries. The gleam of the rune became synonymous with unyielding defense and unbreakable resolve.
 
 Understanding the immense strategic advantage offered by the Dharzil Guard, the Shieldbearer clan took it upon themselves to guard its secrets with their lives. The Rune of Dharzil Guard stands as a monument to Torin Shieldbearer's vision and the enduring Dwarvish belief that the best offense is a stalwart defense.
+
+
+## Description of Creator
+Here write a description of creator

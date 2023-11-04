@@ -1,6 +1,6 @@
 ## The Inquisitors of Dagnath
 
-The Inquisitors of Dagnath are the intrepid souls who traverse the breadth of Thraun and beyond, their purpose twofold: to reclaim the lost relics of their kind and to enforce the sacred decrees of their deity. They are the embodiment of the goddess's aspect of death, a reminder that all things must end, only to be reborn through remembrance and reverence.
+The Inquisitors of Dagnath are the intrepid souls who traverse the breadth of Cecia and beyond, their purpose twofold: to reclaim the lost relics of their kind and to enforce the sacred decrees of their deity. They are the embodiment of the goddess's aspect of death, a reminder that all things must end, only to be reborn through remembrance and reverence.
 
 Clad in armor that is a masterwork of dwarven craftsmanship, the Inquisitors are a formidable sight. Their plate is etched with runes that gleam with an inner light, each a symbol of protection and strength. The 'Iron Aegis' rune is prominent, often taking the central place on their breastplates, its lines flowing like the roots of Yggdrasil, signifying the depth and reach of their commitment.
 
