@@ -15,6 +15,8 @@ In the Ancestral Vaults, our spirits merge."
 ## Role
 The Guide of Souls is the designated leader of the pilgrimage, a dwarf of great respect and wisdom, chosen for their knowledge of the ancient ways and the hidden paths of the Iron Hills. It is their duty to lead the pilgrims safely through the dark and ensure the sanctity of the journey.
 
+![Guide of Souls](Guide_of_Souls.png)
+
 ## Insignia
 The Guide of Souls bears the insignia of the 'Guiding Lantern', a symbol that represents the light that leads the way through darkness. This insignia is often a lantern crafted from everbright silver, enchanted to burn eternally without flame, a beacon for the pilgrims as they traverse the shadowed corridors.
 
@@ -27,6 +29,8 @@ The pilgrims wear simple, sturdy garments, eschewing ostentation for practicalit
 The Ancestral Vaults themselves are adorned with the heraldry of the clans, banners and flags that have been passed down through generations. The air is thick with the scent of incense, burned to purify the pilgrims and the sacred space. Each vault is a testament to the dwarven legacy, with statues of the ancestors standing guard over their resting places, and the walls are lined with intricate carvings that depict the great deeds and sagas of the dwarven people.
 
 ## The Ancestral Vaults: A Testament to Dwarven Craftsmanship
+
+![Guide of Souls](Visualize_the_Ancestral_Vaults_1.png)
 
 Deep beneath the craggy peaks of the Iron Hills lies the Ancestral Vaults, a colossal underground chamber that serves as the final resting place for the most esteemed dwarves. The vaults are a sanctum of silence and stone, a sacred space where the echoes of the past resonate with the clinking of chisels and hammers that once shaped the might of a civilization.
 
@@ -45,3 +49,9 @@ The Ancestral Vaults are not merely a burial ground; they are a celebration of w
 In the deepest recesses of the vaults, where the shadows gather thickest, the most hallowed ancestors lay in their stone sarcophagi. These are the paragons of dwarvenkind, whose deeds are sung by the bards and whose legacies are carried in the hearts of their kin. The sarcophagi are adorned with precious gems and metals, each a piece of the earth that the dwarves hold dear.
 
 The Ancestral Vaults stand as a monument to the indomitable spirit of the dwarves—a people whose prowess in crafting the elements of the earth is unrivaled. Here, in the solemn quietude of the deep, the legacy of the dwarves is preserved in stone and iron for eternity.
+
+![Guide of Souls](Visualize_the_Ancestral_Vaults_3.png)
+
+![Guide of Souls](Visualize_the_Ancestral_Vaults_4.png)
+
+![Guide of Souls](Visualize_the_Ancestral_Vaults_2.png)

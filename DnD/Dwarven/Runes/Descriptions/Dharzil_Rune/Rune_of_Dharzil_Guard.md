@@ -2,6 +2,7 @@
 
 **Combining**: "Dharzil" (a Dwarvish-inspired word that conveys "defense" or "shielding") with "Guard" (indicating protection and defense).
 
+![Guide of Souls](Dharzil_Rune_inspiration_weapon.png)
 
 ## Short description
 The sword can parry attacks, granting an armor class bonus when wielded.
@@ -23,4 +24,10 @@ Understanding the immense strategic advantage offered by the Dharzil Guard, the 
 
 
 ## Description of Creator
-Here write a description of creator
+The creator of the Rune of Dharzil Guard, Torin Shieldbearer, was a master runesmith known for his exceptional skill and deep understanding of ancient Dwarvish lore. His stout build, typical of Dwarven kind, was complemented by a thick, braided beard, a hallmark of his esteemed lineage. Torin's eyes, sharp and bright like polished steel, reflected a mind that was always contemplating the next innovation. His hands, though rough from the forge's heat, were remarkably precise, capable of inscribing runes that seemed to dance with magical energy.
+
+![Guide of Souls](Torin_Shieldbearer.png)
+
+Torin's reputation was not solely built on his craftsmanship but also on his philosophy that the protection of kin and kingdom was paramount. His garments often bore the emblem of the Shieldbearer clan—a shield cleaved by a sword, symbolizing the balance between attack and defense. It was said that his workshop was filled with sketches of runes and designs of swords that lined the stone walls, illuminated by the ever-burning glow of his forge.
+
+His work with the Dharzil Guard rune was a testament to his legacy, a blend of practical skill and an almost philosophical belief in the sanctity of defense. Torin Shieldbearer was not only a runesmith but a protector of Dwarvish values, a creator whose life's work was to empower his people through the art of the forge and the wisdom of the rune.

@@ -4,6 +4,9 @@ The Lay Clerks of Dagnath are the keepers of the dwarven narrative, the silent s
 
 Their fingers are stained with the inks of a thousand tomes, and their eyes gleam with the reflected light of knowledge. Around their necks hang chains of office, from which dangle intricate amulets inscribed with the 'Mindforge' rune, glowing faintly with the power to enhance memory and intellect. These amulets are not only symbols of their station but also tools that allow them to recall every word of the vast lore they protect.
 
+
+![Guide of Souls](Lay_Clerks.png)
+
 The Lay Clerks are trained from a young age in the art of rune lore, with each individual mastering the delicate process of inscribing Body and Utility Runes. The runes they carry are subtle, often hidden beneath their garments, pressed against their skin in a silent vow of their life's dedication. 'Lorekeeper's Light' runes are woven into their cuffs, and 'Wordweaver' runes are etched along their palms, enabling them to work tirelessly, their hands never faltering in the delicate task of transcription.
 
 In the quietude of their sacred spaces, the Lay Clerks chant the histories of their people, a soft, rhythmic hum that is said to be the heartbeat of Dagnath herself. They are the embodiment of the goddess's wisdom aspect, her voice in the silence of the archives.

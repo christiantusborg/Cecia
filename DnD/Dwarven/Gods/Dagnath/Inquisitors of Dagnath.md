@@ -4,6 +4,8 @@ The Inquisitors of Dagnath are the intrepid souls who traverse the breadth of Ce
 
 Clad in armor that is a masterwork of dwarven craftsmanship, the Inquisitors are a formidable sight. Their plate is etched with runes that gleam with an inner light, each a symbol of protection and strength. The 'Iron Aegis' rune is prominent, often taking the central place on their breastplates, its lines flowing like the roots of Yggdrasil, signifying the depth and reach of their commitment.
 
+![Guide of Souls](Inquisitors_of_Dagnath.png)
+
 The weapons they carry are no less remarkable. Forged in the sacred fires of Durin Shadowforge's forge, these blades and hammers are inscribed with the 'Sundering Edge' and other potent Weapon Runes. They are not mere tools of battle but symbols of the Inquisitors' authority to cut through the veils of deceit and to shatter the chains that bind the sacred relics of the past.
 
 The Inquisitors' helms are often adorned with motifs that speak of their role as seekers of truth and protectors of the dwarven way. The visages of their helms might be crafted to resemble the stoic faces of their ancestors, a tribute to the spirits that guide them in their quest.
