@@ -1,2 +1,5 @@
 Deity of Cecia:
-Dagnath: The Dwarven Deity of Death and Knowledge.
+The Dwarven Deities
+ - Dagnath of Death and Knowledge.
+
+ The Human Deities
