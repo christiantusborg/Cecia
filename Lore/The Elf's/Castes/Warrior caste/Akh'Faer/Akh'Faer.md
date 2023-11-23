@@ -1,7 +1,7 @@
 # Akh'Faer – 'Army of Art'
 
 
-![Insignia Akh'Faer](Insignia_AkhFaer.png)
+![Insignia Akh'Faer](Akh'Faer_tattoo.png)
 
 The Akh'Faer serve as the magical diplomats for the Elven community. They are experts in mediating conflicts involving magical elements and advising on magical treaties. Their skills extend to magical diplomacy, cultural sensitivity, and international missions. They also participate in magical councils and specialize in magical mediation and conflict resolution.
 
@@ -213,3 +213,8 @@ We adapting to the demands of war while maintaining their unique magical experti
 
 ### Emergency Reserves:
  Resources set aside for unforeseen circumstances.  A portion of both magical and conventional resources is kept in reserve.
+
+
+## Leader of Akh'Faer
+
+![Akh'Faer War](Akh'Faer_leader.png)
