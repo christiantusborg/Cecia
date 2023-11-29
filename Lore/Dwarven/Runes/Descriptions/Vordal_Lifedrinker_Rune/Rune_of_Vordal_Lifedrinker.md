@@ -8,6 +8,20 @@
 
 The sword drains the life force of foes, healing the wielder with each hit.
 
+### Game rules
+**Rune Difficulty:** +10 (no additional difficulty for inscribing this rune).
+**Rune Rarity:** Very Rare
+
+**Effect Variation Based on Location:**
+- **Location 1:**     
+    - Causes an additional 1d4 damage. The wielder is healed for the same amount.
+- **Location 2-3:**
+    - Causes an additional 2d4 damage. The wielder is healed for the same amount.
+- **Location 4-5:**   
+    - Causes an additional 3d4 damage. The wielder is healed for the same amount.
+- **Location 6:**     
+    - Causes an additional 4d4 damage. The wielder is healed for the same amount.
+
 ## Visual
 
 The rune itself is a haunting amalgamation of Dwarvish sigils. It depicts a central vortex, symbolizing the siphoning of life. Spiraling outwards from this vortex are delicate tendrils, reaching and intertwining, evoking the image of life forces being drawn in. The outer edge of the rune is encased in a jagged boundary, representing the raw power and danger of this life-draining ability. When inscribed on a blade, the rune seems to pulse with a shadowy glow, as if hungering for the vitality it's designed to steal.

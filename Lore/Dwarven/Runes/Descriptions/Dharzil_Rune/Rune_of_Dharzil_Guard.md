@@ -9,6 +9,17 @@ The sword can parry attacks, granting an armor class bonus when wielded.
 ## Effect
 When wielding a sword with this rune you get bonus yo you class bonus equal to +1 for every 3 point remove for your to hit
 
+## Game rules
+**Rune Difficulty:** +0 (no additional difficulty for inscribing this rune).
+**Rune Rarity:** Common
+**Effect Variation Based on Location:**
+- Location 1-5:
+    - Can parry attacks by transferring the sword's enhancement bonus to AC on 1 for 1  basis.
+- Locations 5:
+    - Can parry attacks by transferring the sword's enhancement bonus to AC on 1 for 2  basis.
+
+
+
 
 ## The Legend of the Dharzil Guard Rune
 

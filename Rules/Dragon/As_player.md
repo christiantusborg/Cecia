@@ -1,6 +1,6 @@
 # Silver Dragon Progression
 
-## Silver Dragon Wyrmling (Level 1,2,3)
+## Silver Dragon Wyrmling (Level 1-3)
 - **Total Hit Dice (HD):** 7d12+7 (52 HP)
 - **Ability Scores:**
   - Strength: 13
@@ -26,8 +26,8 @@
   - AC: 17 (+1 size, +6 natural), touch 11, flat-footed 17
   - Cloudwalking
 
-## Very Young Silver Dragon (Level 4,5,6,7)
-- **Total Hit Dice (HD):** 10d12+20 (85 HP)
+## Very Young Silver Dragon (Level 4-7)
+- **Total Hit Dice (HD):** 10d12+20 (85 HP) 
 - **Ability Scores:** 
     - Strength 15
     - Dexterity 10
@@ -48,7 +48,7 @@
 - **Ability Scores:** 
     - Strength 17
     - Dexterity 10
-    - Constitution 15-
+    - Constitution 15
     - Intelligence 16
     - Wisdom 17
     - Charisma 16
@@ -89,14 +89,13 @@
     - Wisdom 19
     - Charisma 18
 
-- **Fog Cloud:** Spell-like ability
+**Damage Reduction:** DR 5/magic
 - **When Humanoid:** Same as above with improved saves
 - **When Dragon:**
   - Base Attack/Grapple: +19/+29
   - Attack Bonus: +24
   - Saves: Fortitude +15, Reflex +11, Will +15
   - Breath Weapon: 10d8 cold (DC 23)
-  - Damage Reduction: DR 5/magic
   - Frightful Presence DC: 23
   - AC: 27 (–1 size, +18 natural), touch 9, flat-footed 27
 
@@ -118,6 +117,8 @@
     - Intelligence 18
     - Wisdom 19
     - Charisma 18
+
+- **Fog Cloud:** Spell-like ability    
 - **When Humanoid:** Same as above with improved saves
 - **When Dragon:**
   - Base Attack/Grapple: +22/+38

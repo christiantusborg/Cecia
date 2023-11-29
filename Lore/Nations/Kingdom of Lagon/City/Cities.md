@@ -1,0 +1,1 @@
+City of Gerighel: https://raw.githubusercontent.com/christiantusborg/Prompt/main/DnD/Kingdoms/Kingdom%20of%20Lagon/City/City%20of%20Gerighelm/City_of_Gerighelm.md

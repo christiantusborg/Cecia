@@ -217,4 +217,4 @@ We adapting to the demands of war while maintaining their unique magical experti
 
 ## Leader of Akh'Faer
 
-![Akh'Faer War](Akh'Faer_leader.png)
+![Akh'Faer War](Akh'Faer_leader.jpg)
