@@ -6,8 +6,24 @@
 
 ![Guide of Souls](The_Eldhrun_Rune_inspiration_sword.png)
 
+
+
 ## Effect 
-The sword bursts into flames when drawn, dealing extra (1d6) fire damage on successful hits.
+The sword bursts into flames when drawn, dealing extra fire damage on successful hits.
+
+### Game rules
+**Rune Difficulty:** +0 (no additional difficulty for inscribing this rune).
+**Rune Rarity:** Common
+**Effect Variation Based on Location:**
+- **Location 1:**     
+    - Causes an additional 1d4 damage.
+- **Location 2-3:**
+    - Causes an additional 1d6 damage.
+- **Location 4-5:**   
+    - Causes an additional 1d8 damage.
+- **Location 6:**     
+    - Causes an additional 1d10 damage.
+
 
 ## Visual 
 A robust forge hammer (representative of Dwarvish craftsmanship) striking an anvil with brilliant sparks flying. From these sparks arises a ferocious flame, spiraling upwards, its warmth and brilliance encased within a protective rune circle.

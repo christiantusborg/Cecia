@@ -43,3 +43,31 @@ The **Aegiskeryn**, also known as the 'Protection Warrior' or Shield Golem, are 
 - **Rapid Response:** Able to swiftly mobilize and respond to threats within the forest.
 
 The Aegiskeryn are not just warriors; they are guardians of the Elven forests, blending their martial skills with a deep understanding of their natural surroundings. Their role is crucial in maintaining the sanctity and safety of the Elven territories, making them indispensable in the overall defense strategy of the Elves.
+
+## Ranks:
+- Lirathil (Private)
+- Lirathir (Lance Corporal)
+- Meluvaron (Corporal)
+- Tiravaron (Sergeant)
+- Nornethol (Technical Sergeant)
+- Sarnethol (Master Sergeant)
+- Tiramarth (Warrant Officer)
+- Aranmarth (Second Lieutenant)
+- Endermarth (First Lieutenant)
+- Sedhelvor (Lieutenant Commander)
+- Turhelvor (Brigadier Commander)
+- Ardahelvor (Commander)
+
+
+
+In a military structure like that of the Aegiskeryn, where there is only one commander at the highest rank and increasingly larger numbers of personnel as you descend the ranks toward the basic footman level, the size of each rank is determined by the roles and responsibilities associated with them.
+
+Ardahelvor (Commander): At the top of the hierarchy, there is only one commander. This exclusivity is because the commander has the ultimate responsibility for the entire army, making strategic decisions and overseeing all operations. The singularity of this position ensures clear, centralized command and decision-making authority.
+
+Turhelvor (Brigadier Commander) and Sedhelvor (Lieutenant Commander): These are high-ranking officers who serve as senior advisors and strategists. Their numbers are limited due to the specialized nature of their roles, which require extensive experience and knowledge. Fewer individuals at this level are necessary to maintain a streamlined command structure.
+
+Middle Ranks (Endermarth to Tiramarth): These ranks include officers responsible for implementing strategies and commands on the ground. They have more direct interaction with the lower ranks and are crucial for the day-to-day running of the army. Their numbers are greater than the top ranks but fewer than the foot soldiers, reflecting a balance between leadership responsibility and the need for multiple units to manage different aspects of the army’s operations.
+
+Lower Ranks (Sarnethol and Nornethol): These ranks consist of non-commissioned officers who provide support to higher officers and have specific roles like training, logistics, or small unit leadership. Their numbers are higher because they serve as the link between command and the bulk of the army, ensuring orders are executed and daily tasks are managed effectively.
+
+Foot Soldiers (Tiravaron, Meluvaron, Lirathir, Lirathil): These are the most numerous in the army, forming its backbone. In any military organization, the bulk is made up of foot soldiers who carry out the primary operations, such as combat, patrolling, and guarding. Their large numbers are necessary to cover various operational needs, from direct combat to maintaining a presence across territories.

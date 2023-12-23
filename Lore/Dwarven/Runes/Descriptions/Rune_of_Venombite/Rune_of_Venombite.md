@@ -10,10 +10,11 @@ This rune endows a blade with a deadly poison, dealing additional poison damage 
 ## Effect
 When a blade is inscribed with this rune, it becomes coated in a potent venom, inflicting extra poison damage upon each hit.
 
-### Game rules
+
 ### Game rules
 #### Rune Difficulty
  - **Rune Difficulty:** +0 (no additional difficulty for inscribing this rune).
+ - **Rune rarety** Uncommen 
 #### Effect Variation Based on Location
 - **Location 1-2:**
     - Inflicts a -1 penalty to the victim's strength while poisoned.

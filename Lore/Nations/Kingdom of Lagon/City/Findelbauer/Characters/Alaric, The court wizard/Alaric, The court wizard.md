@@ -1,0 +1,15 @@
+# Alaric, The court wizard
+
+In the grand chambers of the Duke, amidst the shimmering tapestries and the whispers of power, there stood the court Wizard, Alaric. His presence was akin to a quietly burning flame, often overlooked yet undeniably vital. Alaric's gaze held the weight of knowledge, his eyes deep pools of curiosity and understanding, often lost in thought as he delved into the mysteries of the universe. His attire was simple yet elegant, a reflection of his practical nature and his disregard for the frivolous.
+
+Alaric's mind was a fortress of information, always seeking, always questioning. He was the quintessential seeker of truth, driven by an insatiable thirst for knowledge. This pursuit often led him into the depths of ancient tomes and the secrets of the arcane. His dedication to understanding the world was not just for personal gain but stemmed from a deeper, almost altruistic need to use his knowledge for the betterment of those around him.
+
+In his interactions, Alaric was often perceived as aloof, his mind seemingly wandering in realms others could scarcely comprehend. Yet, beneath this veneer of detachment, there was a warmth, a genuine desire to help. This manifested in his role as the Duke's advisor, where his insights were not only strategic but often laced with a compassion that sought the welfare of the Duke's subjects. His advice, though sometimes cryptic, was always aimed at ensuring the prosperity and well-being of the land.
+
+However, Alaric's adherence to his principles sometimes put him at odds with the more pragmatic aspects of court politics. His moral compass, unyielding and rigid, did not always align with the flexible ethics of political maneuvering. This inner conflict was evident in the subtle furrow of his brow, a testament to his constant battle between what is and what ought to be.
+
+As a wizard, Alaric's magic was as unique as his personality. It was not the flashy spells of battle mages nor the enchanting illusions of entertainers. His magic was methodical, precise, often used to unravel mysteries or heal wounds, both physical and metaphysical. His spells were imbued with an empathy that echoed his secondary nature, a testament to his desire to heal and aid.
+
+Serving the wealthy Duke, a man of power and influence, Alaric navigated the complexities of wealth and authority. He understood the intricacies of trade and the undercurrents of power, using his insights to advise the Duke on matters that extended beyond the realm of magic. His role was not just that of a mystical advisor but that of a strategic ally, guiding the Duke through the labyrinth of commerce and diplomacy.
+
+In essence, Alaric, the court Wizard, was a tapestry of contradictions - detached yet empathetic, rigid yet compassionate, a seeker of truth in a world often shrouded in deceit. His journey was not just one of magical prowess but of an unending quest for knowledge, understanding, and the delicate balance between moral integrity and the demands of service to power.
