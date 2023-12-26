@@ -12,6 +12,14 @@
 1. Dragon
 2. Pixie
 
+
+DRYAD
+NYMPH
+SATYR
+
+GRIG
+PIXIE
+
 **From Races of Destiny:**
 1. Sharakim - Winged humanoids with avian features known for their connection to the skies.
 2. Spirit Folk - Elemental humanoid subtypes tied to air, earth, fire, or water.
