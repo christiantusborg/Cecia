@@ -15,9 +15,6 @@ Additional uses per day allow the druid to cast an infused spell from the Mantle
 ### Nature's Embrace
 - **Description**: Spells cast through the Mantle often carry additional, minor natural effects, reinforcing the druid's bond with the natural world.
 
-### Growing Synergy
-- **Description**: As the druid gains levels (3rd, 5th, 7th, etc.), the Mantle provides further abilities that enhance their interaction with nature, such as improved elemental resistance or the ability to navigate natural terrains effortlessly.
-
 ## Restrictions:
 - The Mantle is attunable only by druids.
 - The infused spell for each level must be aligned with natural themes and the druid's connection to the wild.
