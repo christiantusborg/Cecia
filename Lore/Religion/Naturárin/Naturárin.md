@@ -129,3 +129,19 @@ Due to these significant costs and impacts:
 - **Significant Individuals**: The decision to use a scroll is weighed heavily against the potential benefits and drawbacks. The individual resurrected must be deemed essential for the maintenance or restoration of balance within the natural and political realms.
 
 In essence, the creation and use of Resurrection Scrolls in the Naturárin faith are bound by high ethical standards, deep spiritual significance, and profound respect for the natural order. This ensures that such powerful tools are not misused, preserving the sanctity of life and the integrity of the natural world.
+
+### Limitations and Restrictions of Resurrection Scrolls
+
+Resurrection Scrolls in the Naturárin belief system are not universally effective and their operation is contingent upon several critical factors. These limitations are inherently tied to the natural laws and the spiritual ethos of Naturárin, reflecting the belief that not all who die should or can be brought back. This aligns with the overarching principle that the natural order must be maintained and respected.
+
+#### Nature’s Will and the Life Force Alignment:
+The effectiveness of a Resurrection Scroll is significantly influenced by what is termed as “Nature’s Will.” This concept embodies the idea that the natural and arcane energies of the world have a form of consciousness or intent. Factors affecting the scroll's effectiveness include:
+- **Alignment with Natural Law**: If the resurrection of an individual goes against the current needs or balance of the natural world, the scroll may fail. This could happen if the person’s role in life had somehow led to significant natural imbalance or destruction.
+- **Life Force Suitability**: Sometimes, the energy pattern or life force of the deceased might not be compatible with the current flow of natural energies. If their energy is deemed more valuable to the world in its released form, such as nourishing the land or contributing to the cycle of life and death, the scroll will not function.
+
+#### Ecological Impact and Spiritual Harmony:
+The use of a Resurrection Scroll is also limited by the potential ecological and spiritual repercussions:
+- **Potential Harm to Nature**: If the resurrection might cause harm or imbalance to the local ecosystem—whether through disruption of energy flows, unseasonal weather patterns, or affecting local wildlife—the natural forces might reject the scroll's power. Naturárin practitioners believe that each being’s life force is tuned to the rhythms of the world, and disturbing this can have broader repercussions.
+- **Spiritual Disharmony**: The spiritual state of the deceased plays a crucial role. If their spirit has moved on to a state that is integral to the functioning of another aspect of the natural world, pulling them back would create disharmony and imbalance. This is particularly significant if the spirit has begun to transition into a new form or existence within the natural cycle.
+
+In summary, Resurrection Scrolls in the Naturárin tradition are bound by strict limitations that reflect a deep respect for the natural order and the complex interplay of life forces. The decision to use such a powerful artifact is never taken lightly and is always weighed against the potential impacts on both the natural world and the spiritual balance of the ecosystem. These scrolls embody the profound belief that not all deaths are to be undone, and some are necessary for the greater health and harmony of the world.
