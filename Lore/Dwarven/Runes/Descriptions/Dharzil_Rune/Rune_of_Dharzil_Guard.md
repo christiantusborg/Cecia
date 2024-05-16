@@ -15,8 +15,10 @@ When wielding a sword with this rune you get bonus yo you class bonus equal to +
 **Effect Variation Based on Location:**
 - Location 1-5:
     - Can parry attacks by transferring the sword's enhancement bonus to AC on 1 for 1  basis.
-- Locations 5:
+- Locations 6:
     - Can parry attacks by transferring the sword's enhancement bonus to AC on 1 for 2  basis.
+- Locations 7:
+    - Can parry attacks by transferring the sword's enhancement bonus to AC on 1 for 3  basis.
 
 
 
