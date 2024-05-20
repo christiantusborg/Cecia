@@ -7,7 +7,6 @@
 ![Guide of Souls](The_Eldhrun_Rune_inspiration_sword.png)
 
 
-
 ## Effect 
 When activated, the weapon allows the wielder to slow down time, granting extra action briefly.
 
@@ -25,7 +24,9 @@ When activated, the weapon allows the wielder to slow down time, granting extra 
     - Allows you to take an additional attack. (X/day)
 - **Location 5:**   
     - As Freedom of Movement. (X/day)
-- **Location 6:**     
+- **Location 6:**   
+    - Grants an effect similar to the spell True Strike, on your next attack roll. (X/day)
+- **Location 7:**     
     - Any one of the locations (X/day) (Must be declared before rolling initiative)
 
 X/day, Number of runes on the sword.

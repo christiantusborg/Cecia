@@ -24,7 +24,9 @@ The sword deals harmful energy damage, weakening the target's strength on succes
 - **Location 5:**   
     - Causes 1d8 damage to strength. (1 month)
 - **Location 6:**     
-    - Causes 1d12 damage to strength. (1 year)
+    - Causes 1d10 damage to strength. (6 months)
+- **Location 7:**     
+    - Causes 1d10 damage to strength. (1 year)
 
 ## The Legend of the Myrkrstinga Rune
 In the deep, uncharted caverns of the Gloompeak Mountains, the Dwarven clan of Shadowforge found solace. Their expertise lay in crafting weapons that thrived in darkness, unlike any other in the realm.

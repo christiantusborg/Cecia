@@ -1,23 +1,26 @@
 ## Weapon runes:
+ - **Rune of Dharzil Guard**: The sword can parry attacks, granting an armor class bonus when wielded.
+ - **Rune of Eldhrun**: The sword bursts into flames when drawn, dealing extra fire damage on successful hits.
+
+
+### TODO
 - **Rune of Eldhrun:** The sword bursts into flames when drawn, dealing extra fire damage on successful hits.
 - **Rune of Venombite:** The blade is coated with a potent poison, delivering poison damage with each hit.
 - **Rune of Dharzil Guard:** The sword can parry attacks, granting an armor class bonus when wielded.
-- **Rune of Vordal Lifedrinker:** The sword drains the life force of foes, healing the wielder with each hit.
-- **Rune of Myrkrstinga:** (Darkness Stinger) The sword deals harmful energy damage, weakening the target's strength on successful hits
 - **Rune of Farafljót:** - "Swift Journey," denoting rapid movement through time.
-
+- Rune of Phase Strike: The sword can bypass armor and strike ethereal or incorporeal creatures.
 - Rune of Keen edge: The sword's edge is razor-sharp, increasing the critical threat range.
 - Rune of Arcane Channeling: The sword can store a spell that can be released with an attack.
 - Rune of Bane: The sword is especially effective against a specific type of creature (e.g., dragons, undead, or giants).
 - Rune of Thundering: The sword emits a deafening boom on a critical hit, stunning the target.
-- Rune of Acidic: The blade corrodes the armor and weapons of opponents, reducing their effectiveness.
+- *** Rune of Acidic: The blade corrodes the armor and weapons of opponents, reducing their effectiveness. 
 - Rune of Arcane Feedback: When the sword hits a spellcaster, it has a chance to disrupt their spellcasting.
-- Rune of Phase Strike: The sword can bypass armor and strike ethereal or incorporeal creatures.
+
 - Rune of Thunderclap: On a critical hit, the sword creates a shockwave, damaging nearby foes.
 - Rune of the Giant Slayer: The sword is particularly effective against larger creatures, dealing bonus damage.
 - Rune of Blinding Light: The sword emits a blinding flash, causing temporary blindness in opponents.
 - Rune of Echo Strike: The sword can duplicate the last successful attack it made within the last minute.
-- Rune of Soul Splitter: On a critical hit, the sword can temporarily split the target's soul, causing confusion or fear.
+- *** Rune of Soul Splitter: On a critical hit, the sword can temporarily split the target's soul, causing confusion or fear.
 - Rune of Gravity Well: The sword can create a localized gravitational field, making it difficult for enemies to move.
 - Rune of Temporal Strike: The sword can briefly slow down time for the wielder, granting extra actions.
 - Rune of Bloodthirsty: The sword gains power from the blood of foes it has wounded, increasing its damage with each hit.
@@ -37,45 +40,52 @@
 - Rune of MORPHING, This can change in any other type of weapon
 - Rune of REVEALING. When hit an invistable target he will be visible can not become visible for X minits
 - Rune of SHADOWSTRIKE: This weapon ingore armor
-- Rune of SOULBREAKER: This will affect target with fear
-- Rune of the Dark Power: Unleashes a short burst of raw strength but comes with the risk of the user losing control.
+- ***Rune of SOULBREAKER: This will affect target with fear
+- ***Rune of the Dark Power: Unleashes a short burst of raw strength but comes with the risk of the user losing control.
 - Rune of the Warrior: Amplifies individual combat prowess.
 - Rune of the Invader: Improves navigation or tactical strategies in unfamiliar territories, drawing from the Romans' expertise in conquering new lands.
 - Rune of Moremi's Sacrifice : When an has fallen
 - Rune of Shiva's Dance: Whirvelwind
-- Rune of Narasimha's Wrath
+- ***Rune of Narasimha's Wrath
 - Rune of grip:
 - Rune of Khand:
 une of the Arcane Archer: The wearer's ranged attacks ignore half cover.
 - Rune of the Gladiator: The User gains proficiency in type of weapon.
 
+
+
+### Forbidden Runes:
+- **Rune of Vordal Lifedrinker:** The sword drains the life force of foes, healing the wielder with each hit.
+- **Rune of Myrkrstinga:** (Darkness Stinger) The sword deals harmful energy damage, weakening the target's strength on successful hits
+- Rune of Agony: When your hit by this weapon you in pain forticute required
+
 # Armor Rune:
-Anvil's Aegis - Grants the wearer additional protection against critical hits.
-Forgefire Mantle - Provides resistance to fire damage.
-Mithrilweave - Reduces armor check penalty by improving flexibility.
-Boulder's Endurance - Grants hit points while weaing.
-Deeproot Stand - Grants the wearer stability, making them harder to move or knock down.
-Stone's Kin - The armor blends with rocky surroundings, granting a bonus to hide in such terrain.
-Forgeheart - The armor grants resistance to fatigue and exhaustion.
-Quake Step - The wearer’s steps cause minor tremors, unbalancing foes.
-Rune of the Phoenix: When the wearer is reduced to 0 hit points, they are instead reduced to 1 hit point (once per long rest).
-Rune of Camouflage: Gives advantage on stealth checks in natural environments.
-Rune of Blazing Retaliation: When struck by a melee attack, the armor emits a burst of fire, dealing 1d6 fire damage to the attacker.
-Rune of the Thunderclap: When the wearer is hit, there’s a chance to emit a thunderous clap that can deafen nearby enemies.
-Rune of the Guardian: The wearer can cast 'Shield' once per short rest without having the spell.
-Rune of the Sylph: The wearer moves silently, granting advantage on moves to avoid being heard.
-Rune of Lightness: Reduces the weight of the armor by half, increasing the wearer's speed by 5 feet.
-Rune of the Ethereal Jaunt: Once per long rest, the wearer can become ethereal for 1 round.
-Rune of the Mimic: The armor can change its appearance at the wearer’s will, perfect for disguises.
-Rune of the Shadowstep: Once per long rest, the wearer can teleport up to 30 feet to an unoccupied space they can see.
-Rune of the Serpent's Coils: Grants the wearer advantage on escaping grapples and restraints.
-Rune of the Ethereal Armor: Once per long rest, the wearer can cause their armor to grant them the effects of the "Blink" spell for 1 minute.
-Rune of the Swiftblade: Increases the wearer's base land speed by 5 feet.
-Rune of the Battlecaster: Allows the wearer to ignore arcane spell failure from armor for spells up to 1st level. (+1 time each rune added)
-Rune of the Seer's Vision: The wearer gains darkvision up to 30 feet.
-Rune of the Blinding Speed: Once per day, the wearer can move twice their normal speed without incurring attacks of opportunity.
-Rune of the Juggernaut's March: The wearer's armor does not slow their speed, even if it is medium or heavy armor.
-Rune of the Yawning Abyss: level/3 per day, the wearer can invoke a rune to terrify enemies, when he is hit, causing them to become frightened as per - gainst flames.
+- Anvil's Aegis - Grants the wearer additional protection against critical hits.
+- Forgefire Mantle - Provides resistance to fire damage.
+- Mithrilweave - Reduces armor check penalty by improving flexibility.
+- Boulder's Endurance - Grants hit points while weaing.
+- Deeproot Stand - Grants the wearer stability, making them harder to move or knock down.
+- Stone's Kin - The armor blends with rocky surroundings, granting a bonus to hide in such terrain.
+- Forgeheart - The armor grants resistance to fatigue and exhaustion.
+- Quake Step - The wearer’s steps cause minor tremors, unbalancing foes.
+- Rune of the Phoenix: When the wearer is reduced to 0 hit points, they are instead reduced to 1 hit point (once per long rest).
+- Rune of Camouflage: Gives advantage on stealth checks in natural environments.
+- Rune of Blazing Retaliation: When struck by a melee attack, the armor emits a burst of fire, dealing 1d6 fire damage to the attacker.
+- Rune of the Thunderclap: When the wearer is hit, there’s a chance to emit a thunderous clap that can deafen nearby enemies.
+- Rune of the Guardian: The wearer can cast 'Shield' once per short rest without having the spell.
+- Rune of the Sylph: The wearer moves silently, granting advantage on moves to avoid being heard.
+- Rune of Lightness: Reduces the weight of the armor by half, increasing the wearer's speed by 5 feet.
+- Rune of the Ethereal Jaunt: Once per long rest, the wearer can become ethereal for 1 round.
+- Rune of the Mimic: The armor can change its appearance at the wearer’s will, perfect for disguises.
+- Rune of the Shadowstep: Once per long rest, the wearer can teleport up to 30 feet to an unoccupied space they can see.
+- Rune of the Serpent's Coils: Grants the wearer advantage on escaping grapples and restraints.
+- Rune of the Ethereal Armor: Once per long rest, the wearer can cause their armor to grant them the effects of the "Blink" spell for 1 minute.
+- Rune of the Swiftblade: Increases the wearer's base land speed by 5 feet.
+- Rune of the Battlecaster: Allows the wearer to ignore arcane spell failure from armor for spells up to 1st level. (+1 time each rune added)
+- Rune of the Seer's Vision: The wearer gains darkvision up to 30 feet.
+- Rune of the Blinding Speed: Once per day, the wearer can move twice their normal speed without incurring attacks of opportunity.
+- Rune of the Juggernaut's March: The wearer's armor does not slow their speed, even if it is medium or heavy armor.
+- Rune of the Yawning Abyss: level/3 per day, the wearer can invoke a rune to terrify enemies, when he is hit, causing them to become frightened as per - gainst flames.
 - Rune of the Three-Eyed Raven: Offers brief visions or insights future events.
 - Rune of the Faceless Man: Allows a temporary change in appearance or grants enhanced stealth abilities.
 - Rune of Baron’s Favor: Provides protection or boosts charisma, allowing for better negotiation or diplomacy.
@@ -113,7 +123,7 @@ Vanguard’s Vigil - Armor provides a bonus to Initiative.
 
 
 # Utility Runes:
-Rune of Ingwaz could be used for spells related to nature, growth, or harvesting.
+- Rune of Ingwaz could be used for spells related to nature, growth, or harvesting.
 - Rune of Hearthguard - Protects a dwelling from fire and extreme heat.
 - Rune of Stoneclad - Reinforces the structure of a building, making it resistant to earthquakes and collapses.
 - Rune of Meadbless - Preserves food and drink, keeping it fresh and preventing spoilage.
