@@ -1,26 +1,26 @@
 ## Weapon runes:
  - **Rune of Dharzil Guard**: The sword can parry attacks, granting an armor class bonus when wielded.
  - **Rune of Eldhrun**: The sword bursts into flames when drawn, dealing extra fire damage on successful hits.
-
-
-### TODO
 - **Rune of Eldhrun:** The sword bursts into flames when drawn, dealing extra fire damage on successful hits.
 - **Rune of Venombite:** The blade is coated with a potent poison, delivering poison damage with each hit.
 - **Rune of Dharzil Guard:** The sword can parry attacks, granting an armor class bonus when wielded.
 - **Rune of Farafljót:** - "Swift Journey," denoting rapid movement through time.
-- Rune of Phase Strike: The sword can bypass armor and strike ethereal or incorporeal creatures.
+- Rune of Rune of Fasthámarr: The sword can bypass armor and strike ethereal or incorporeal creatures.
+- Rune of Galdrastafur: The weapon can store a spell that can be released with an attack.
+Rune of Bannsvík: The sword is especially effective against a specific type of creature (e.g., dragons, undead, or giants).
+### TODO
+
 - Rune of Keen edge: The sword's edge is razor-sharp, increasing the critical threat range.
-- Rune of Arcane Channeling: The sword can store a spell that can be released with an attack.
-- Rune of Bane: The sword is especially effective against a specific type of creature (e.g., dragons, undead, or giants).
+
 - Rune of Thundering: The sword emits a deafening boom on a critical hit, stunning the target.
-- *** Rune of Acidic: The blade corrodes the armor and weapons of opponents, reducing their effectiveness. 
+
 - Rune of Arcane Feedback: When the sword hits a spellcaster, it has a chance to disrupt their spellcasting.
 
 - Rune of Thunderclap: On a critical hit, the sword creates a shockwave, damaging nearby foes.
 - Rune of the Giant Slayer: The sword is particularly effective against larger creatures, dealing bonus damage.
 - Rune of Blinding Light: The sword emits a blinding flash, causing temporary blindness in opponents.
 - Rune of Echo Strike: The sword can duplicate the last successful attack it made within the last minute.
-- *** Rune of Soul Splitter: On a critical hit, the sword can temporarily split the target's soul, causing confusion or fear.
+
 - Rune of Gravity Well: The sword can create a localized gravitational field, making it difficult for enemies to move.
 - Rune of Temporal Strike: The sword can briefly slow down time for the wielder, granting extra actions.
 - Rune of Bloodthirsty: The sword gains power from the blood of foes it has wounded, increasing its damage with each hit.
@@ -58,6 +58,8 @@ une of the Arcane Archer: The wearer's ranged attacks ignore half cover.
 - **Rune of Vordal Lifedrinker:** The sword drains the life force of foes, healing the wielder with each hit.
 - **Rune of Myrkrstinga:** (Darkness Stinger) The sword deals harmful energy damage, weakening the target's strength on successful hits
 - Rune of Agony: When your hit by this weapon you in pain forticute required
+- *** Rune of Acidic: The blade corrodes the armor and weapons of opponents, reducing their effectiveness. 
+- *** Rune of Soul Splitter: On a critical hit, the sword can temporarily split the target's soul, causing confusion or fear.
 
 # Armor Rune:
 - Anvil's Aegis - Grants the wearer additional protection against critical hits.
