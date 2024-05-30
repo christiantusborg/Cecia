@@ -215,6 +215,7 @@ To adjust the complexity levels to a simpler schema of Simple, Moderate, and Com
 | 22      | Cure Moderate Wounds |Heals moderate damage (2d8+3 points of damage).                                                          | 18 herbs            | Complex     | Tideborn Coralweed    |
 | 22      |  Cure Serious Wounds | Heals serious damage (3d8+5 points of damage).                                                         | 32 herbs            | Complex     | 2xTideborn Coralweed  |
 | 22      | Cure Critical Wounds |  Heals critical damage (4d8+7 points of damage).                                                         | 64 herbs            | Complex     | 5xTideborn Coralweed  |
+| 23      | Cure Filth Fever |  Cure Filth Fever.                                                         | 64 herbs            | Complex     | 2xTideborn Coralweed 1xVeilroot Ivy 1xEcholeaf|
 
 **Complexity Levels Explained:**
 - **Simple:** Enhancements or protections that are relatively easy to achieve, requiring basic herbalism knowledge and resources.
