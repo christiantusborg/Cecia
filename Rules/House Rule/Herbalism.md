@@ -222,7 +222,11 @@ To adjust the complexity levels to a simpler schema of Simple, Moderate, and Com
 | 22      | Cure Moderate Wounds |Heals moderate damage (2d8+3 points of damage).                                                          | 18 herbs            | Complex     | Tideborn Coralweed    |
 | 22      |  Cure Serious Wounds | Heals serious damage (3d8+5 points of damage).                                                         | 32 herbs            | Complex     | 2xTideborn Coralweed  |
 | 22      | Cure Critical Wounds |  Heals critical damage (4d8+7 points of damage).                                                         | 64 herbs            | Complex     | 5xTideborn Coralweed  |
-| 23      | Cure Filth Fever |  Cure Filth Fever.                                                         | 64 herbs            | Complex     | 2xTideborn Coralweed 1xMeadowgreen Leaf Ivy Brookmint|
+| 23      | Cure Filth Fever* |  Cure Filth Fever.                                                         | 64 herbs            | Complex     | 2xTideborn Coralweed 1xMeadowgreen Leaf Ivy 1xBrookmint|
+
+The asterisk (*) next to a skill group indicates that a recipe is required to create the corresponding herbal concoction. Players must acquire the specific recipe for these items before attempting to craft them. Recipes can be found, purchased, or learned through various in-game means, such as completing quests, purchasing from vendors, or through character advancement and training. Only with the appropriate recipe can players successfully use their herbs to create these advanced and specialized items.
+
+
 
 **Complexity Levels Explained:**
 - **Simple:** Enhancements or protections that are relatively easy to achieve, requiring basic herbalism knowledge and resources.
@@ -264,8 +268,8 @@ Here's a list of ten rare herbs, each found only in specific areas or under uniq
    - **Location/Circumstance:** Veilroot Ivy exclusively adorns the Stonebark Oak, a tree found in ancient forests, only during the leaf fall season. This rare ivy requires the unique conditions of autumn to thrive, when the leaves of the Stonebark Oak begin to tumble, signaling the ivy's peak potency. Its harvest is a race against time, as it must be collected precisely when the leaves fall, capturing the essence of transition and endurance.
    - **Description:** With leaves of deep, verdant green that contrast against the oak's grey, stone-like bark, Veilroot Ivy is both beautiful and resilient. Its leaves, glowing faintly as the daylight wanes, mark the perfect moment for harvesting. This luminescence, a sign of the ivy's readiness, casts a mystical light on the forest floor, making the Stonebark Oak and its ivy a beacon of ancient strength and magic.
 11. **Meadowgreen Leaf**
-Location/Circumstance: Found in open meadows and grassy fields, particularly thriving in areas with plenty of sunlight. These leaves are abundant in regions with mild, temperate climates and can be found throughout the year.
-Description: Meadowgreen Leaf has broad, vibrant green leaves with a slightly waxy texture. The leaves emit a faint, pleasant aroma reminiscent of fresh grass. They grow in clusters close to the ground, making them easy to spot among other meadow plants.
+   - **Location/Circumstance:** Found in open meadows and grassy fields, particularly thriving in areas with plenty of sunlight. These leaves are abundant in regions with mild, temperate climates and can be found throughout the year.
+   - **Description:** Meadowgreen Leaf has broad, vibrant green leaves with a slightly waxy texture. The leaves emit a faint, pleasant aroma reminiscent of fresh grass. They grow in clusters close to the ground, making them easy to spot among other meadow plants.
 12. **Brookmint**
-Location/Circumstance: Grows along the banks of freshwater streams and rivers. Brookmint prefers moist, well-drained soil and partial sunlight. It is commonly found in temperate and subtropical regions, flourishing in the spring and summer months.
-Description: Brookmint features small, lance-shaped leaves with a rich green color and a distinctive minty scent. The plant produces tiny white flowers in clusters, adding to its recognizable appearance. The leaves are often used in traditional remedies and are easy to harvest due to their abundance near water sources.
+   - **Location/Circumstance:** Grows along the banks of freshwater streams and rivers. Brookmint prefers moist, well-drained soil and partial sunlight. It is commonly found in temperate and subtropical regions, flourishing in the spring and summer months.
+   - **Description:*** Brookmint features small, lance-shaped leaves with a rich green color and a distinctive minty scent. The plant produces tiny white flowers in clusters, adding to its recognizable appearance. The leaves are often used in traditional remedies and are easy to harvest due to their abundance near water sources.

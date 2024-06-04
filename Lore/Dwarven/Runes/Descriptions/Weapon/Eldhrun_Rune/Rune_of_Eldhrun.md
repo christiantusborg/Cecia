@@ -23,7 +23,8 @@ The sword bursts into flames when drawn, dealing extra fire damage on successful
     - Causes an additional 1d8 damage.
 - **Location 6:**     
     - Causes an additional 1d10 damage.
-
+- **Location 7:**     
+    - Causes an additional 1d12 damage.
 
 ## Visual 
 A robust forge hammer (representative of Dwarvish craftsmanship) striking an anvil with brilliant sparks flying. From these sparks arises a ferocious flame, spiraling upwards, its warmth and brilliance encased within a protective rune circle.

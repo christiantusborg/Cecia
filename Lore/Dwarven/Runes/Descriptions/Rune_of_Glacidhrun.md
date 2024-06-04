@@ -3,7 +3,22 @@
 **Combining**: "Glaci" (reminiscent of "glacier") with "Dhrun" (Dwarvish for "rune" or "mark").
 
 ## Effect:
-- The blade is icy cold, causing extra **(1d6) cold damage**.
+- The blade is icy cold, causing extra damage.
+
+### Game rules
+**Rune Difficulty:** +0 (no additional difficulty for inscribing this rune).
+**Rune Rarity:** Common
+**Effect Variation Based on Location:**
+- **Location 1:**     
+    - Causes an additional 1d4 damage.
+- **Location 2-3:**
+    - Causes an additional 1d6 damage.
+- **Location 4-5:**   
+    - Causes an additional 1d8 damage.
+- **Location 6:**     
+    - Causes an additional 1d10 damage.
+- **Location 7:**     
+    - Causes an additional 1d12 damage.
 
 ## Visual:
 A serene mountain peak, covered in snow, with a frozen waterfall cascading from its side. The scene is encased within a rune border, edged with frost patterns.

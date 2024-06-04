@@ -8,6 +8,7 @@
 - Rune of Rune of Fasthámarr: The sword can bypass armor and strike ethereal or incorporeal creatures.
 - Rune of Galdrastafur: The weapon can store a spell that can be released with an attack.
 Rune of Bannsvík: The sword is especially effective against a specific type of creature (e.g., dragons, undead, or giants).
+
 ### TODO
 
 - Rune of Keen edge: The sword's edge is razor-sharp, increasing the critical threat range.
