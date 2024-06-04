@@ -7,12 +7,12 @@
 | Dice Roll (d20 + Herbalism) | Per Active Search Hour (Herbs/Hour) | Traveling at ½ Speed (Herbs/Day) | Traveling at Normal Speed (Herbs/Day) |
 |-----------------------------|-------------------------------------|----------------------------------|---------------------------------------|
 | Less than 5                 | 1                                   | 0                                | 0                                     |
-| 5-10                        | d2                                  | 1                                | 0                                     |
-| 11-15                       | d4                                  | d2                               | 1                                     |
-| 16-20                       | d6                                  | d2                               | 1                                     |
-| 21-25                       | d8                                  | d4                               | d2                                    |
-| 26-30                       | d10                                 | d4                               | d2                                    |
-| 31 and above                | d12                                 | d6                               | d4                                    |
+| 5-10                        | d2                                  | d2                               | 1                                     |
+| 11-15                       | d4                                  | d4                               | d2                                     |
+| 16-20                       | d6                                  | d6                               | d3                                     |
+| 21-25                       | d8                                  | d8                               | d4                                    |
+| 26-30                       | d10                                 | d10                               | d6                                    |
+| 31 and above                | d12                                 | d12                              | d8                                    |
 
 **Explanation of Table:**
 - **Per Active Search Hour:** The quantity of herbs (or the dice type rolled to determine the number) you find during an hour of active searching.
@@ -58,7 +58,7 @@
 | Essences/Extracts  | +d8         | 5 herbs        | 4 hours             | 4            | 6 months       |
 | Oil                | +d6         | 3 herbs        | 2 hours             | 2            | 3 months       |
 | Fresh              | +d4         | 1 herb         | None (0 hours)      | 1            | 5 days         |
-| Dried              | +d4         | 2 herbs        | 1 hour              | 1            | 1 year         |
+| Dried (note)            | +d4         | 2 herbs        | None (0 hours)      | 1/2          | 1 year         |
 
 
 ### Explanation:
@@ -68,7 +68,14 @@
 - **Fresh:** Fresh herbs spoil the quickest because they are not processed to extend their shelf life. They can be used in potions or as ingredients in spells but need to be used relatively quickly after collection.
 - **Dried:** Drying herbs is a simple preservation technique that significantly extends their usable life. Dried herbs lose their potency over time but at a much slower rate than fresh herbs.
 
+**Note on Fresh Herbs Becoming Dried:**
 
+Fresh herbs, while potent and useful in their newly harvested state, have a very short shelf life of only 5 days. After this period, if not used or preserved through other means, fresh herbs will automatically transition into their dried form. This natural drying process extends their usability, transforming the fresh herbs into dried herbs with reduced potency but significantly prolonged shelf life. This automatic transition reflects the herbs' natural degradation and conservation process, allowing players to continue using their herbal finds without immediate spoilage concerns, albeit with adjusted effectiveness.
+
+
+**Note on Fresh Herbs for Processing:**
+
+Only fresh herbs can be used to create essences/extracts and oils. The high potency and active components in fresh herbs are essential for these refined processing forms. Once herbs have transitioned to their dried state, they lose the necessary properties and cannot be used for these specific processes. Therefore, players must ensure they utilize their fresh herbs promptly within their 5-day shelf life to create these valuable and potent herbal products.
 
 ## Time Required to Create Potions and Pills
 
@@ -119,37 +126,37 @@ Players will roll a d20 and add any applicable bonuses from their Herbalism skil
 
 These examples illustrate the flexibility and strategic depth the point distribution system adds to the gameplay, allowing players to tailor their herbal concoctions to fit their specific needs or strategies in various situations.
 
-### Table bonus to the `Skill Group`
 
-| Allocated points    | Dice Type   |
-|---------------------|-------------|
-| Less than 5         | -           |
-| 5-10                | d2          |
-| 11-15               | d4          |
-| 16-20               | d6          |
-| 21-25               | d8          |
-| 26-30               | d10         |
-| 31-40               | d12         |
-| 41 and above        | 2d8         |
+### Table Bonus to the `Skill Group`
 
-### The effects of Duration
+| Allocated Points | Dice Type |
+|------------------|-----------|
+| Less than 5      | -         |
+| 5-8              | d1        |
+| 9-12             | d2        |
+| 13-16            | d4        |
+| 17-20            | d6        |
+| 21-24            | d8        |
+| 25-28            | d10       |
+| 29-32            | d12       |
+| 33 and above     | 2d8       |
 
-| Allocated points | Duration   |
-|------------------|------------|
-| Less than 5      | -          |
-| 5-10             | 1 minutes  |
-| **11-15**        | 5 minutes  |
-| **16-20**        | 10 minutes |
-| **21-25**        | 15 minutes |
-| **26-30**        | 20 minutes |
-| **31-35**        | 25 minutes |
-| **36-40**        | 30 minutes |
-| **41-45**        | 35 minutes |
-| **46-50**        | 40 minutes |
-| **51-55**        | 45 minutes |
-| **56-60**        | 50 minutes |
-| **61-70**        | 55 minutes |
-| **71 and above** | 60 minutes |
+
+### The Effects of Duration
+
+| Allocated Points | Duration       |
+|------------------|----------------|
+| Less than 5      | -              |
+| 5-8              | 1 minute       |
+| 9-12             | 5 minutes      |
+| 13-16            | 10 minutes      |
+| 17-20            | 15 minutes     |
+| 21-24            | 30 minutes     |
+| 25-28            | 1 hour     |
+| 29-32            | 2 hour         |
+| 33-36            | 5 hours        |
+| 37-40            | 12 hours        |
+| 41 and above     | 24 hours        |
 
 
 
@@ -205,12 +212,12 @@ To adjust the complexity levels to a simpler schema of Simple, Moderate, and Com
 | 14      | Intelligence                        | Bonus to Intelligence                                                                   | 12 herbs            | Complex     | Starlight Sprout      |
 | 15      | Wisdom                              | Bonus to Wisdom                                                                         | 12 herbs            | Complex     | Mistveil Mushroom     |
 | 16      | Comelyness                          | Bonus to Comelyness                                                                     | 20 herbs            | Complex     | Aurora Thistle        |
-| 17      | Energy-protection herbs - Fire      | Protection against fire                                                                 | 40 herbs            | Complex     | Sunfire Petal         |
-| 18      | Energy-protection herbs - Cold      | Protection against cold                                                                 | 40 herbs            | Complex     | Frostwhisper Bloom    |
-| 19      | Energy-protection herbs - Electricity | Protection against electricity                                                          | 40 herbs            | Complex     | Thundercap Fungi      |
-| 20      | Energy-protection herbs - Acid      | Protection against acid                                                                 | 40 herbs            | Complex     | Wraithroot            |
-| 21      | Energy-protection herbs - Sound     | Protection against sound                                                                | 40 herbs            | Complex     | Echoleaf              |
-| 22      | Enhancement bonus to Natural Armor | Enhancement of natural armor                                                            | 150 herbs           | Complex     | Veilroot Ivy          |
+| 17      | Energy-protection herbs - Fire*      | Protection against fire                                                                 | 40 herbs            | Complex     | Sunfire Petal         |
+| 18      | Energy-protection herbs - Cold*      | Protection against cold                                                                 | 40 herbs            | Complex     | Frostwhisper Bloom    |
+| 19      | Energy-protection herbs - Electricity* | Protection against electricity                                                          | 40 herbs            | Complex     | Thundercap Fungi      |
+| 20      | Energy-protection herbs - Acid*      | Protection against acid                                                                 | 40 herbs            | Complex     | Wraithroot            |
+| 21      | Energy-protection herbs - Sound*     | Protection against sound                                                                | 40 herbs            | Complex     | Echoleaf              |
+| 22      | Enhancement bonus to Natural Armor* | Enhancement of natural armor                                                            | 150 herbs           | Complex     | Veilroot Ivy          |
 | 22      | Cure Light Wounds | Heals a small amount of damage (1d8+1 points of damage).                                                 | 9 herbs             | Complex     | Tideborn Coralweed    |
 | 22      | Cure Moderate Wounds |Heals moderate damage (2d8+3 points of damage).                                                          | 18 herbs            | Complex     | Tideborn Coralweed    |
 | 22      |  Cure Serious Wounds | Heals serious damage (3d8+5 points of damage).                                                         | 32 herbs            | Complex     | 2xTideborn Coralweed  |
