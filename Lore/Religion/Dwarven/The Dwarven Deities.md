@@ -3,35 +3,35 @@
  - [Dagnath of Death and Knowledge. (Greater)](...)
     - Alignment: Neutral (N)
     - Portfolio: Death, Knowledge, Ancestral Legacy, Protection of Heritage.
-    - Domain: Death, Knowledge, Runes
+    - Domain: Death, Dwarf, Knowledge, Runes
     - Worshipers: Adventurers, Scholars, Historians, and guardians of cultural legacies
 
 - Duun (Greater)
     - Rank: Greater Ancestor-God
     - Alignment: Lawful Neutral (LN)
     - Portfolio: Craftsmanship, Runecraft, Mining, Royalty
-    - Domain: Order, Forge
+    - Domain: Law, Forge, Cavern, Dwarf, Runes
     - Worshipers: Miners, Royalty, Craftsmen, Rune Masters
     - Symbol: Hammer and Anvil
 
 - Nogduur Ashbight (Greater)
     - Alignment: Neutral Evil (NE)
     - Portfolio: Deep-Dwarves, Change, Tyranny, Vengeance
-    - Domain: Death, War, Trickery
+    - Domain: Death, Hatred, Trickery, Tyranny, Dwarf
     - Worshipers: Outcasts, Revolutionaries, Tyrants
     - Symbol: Bearded Dwarven Skull
 
 - Thundar (Intermediate)
     - Alignment: Chaotic Good (CG)
     - Portfolio: Thunder, Strength, Courage, Battle
-    - Domain: Tempest, War
+    - Domain: Windstorm, War, Courage, Storm
     - Worshipers: Warriors, Thundercallers, Soldiers
     - Symbol: Thunderbolt Clashing with a Hammer
 
 - Durnar (Intermediate)
     - Alignment: Lawful Good (LG)
     - Portfolio: Fortifications, Defense, Endurance, Duty
-    - Domain: Protection, War
+    - Domain: Protection, War, Community, 
     - Worshipers: Builders, Guardians, 
     - Symbol: Fortified Wall
 
