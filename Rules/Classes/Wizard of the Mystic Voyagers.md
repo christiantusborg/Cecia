@@ -1,6 +1,7 @@
 # Wizard of the Mystic Voyagers
 
 **Race:** Any (Require Approval)
+Founded year: 9035
 
 ## Core Concept
 Wizard of the Mystic Voyagers are both arcanists and explorers, chronicling their magical discoveries and journeys in two separate but equally important tomes: a Spell Book and a Journey Book. Mystic Voyagers cannot specialize in a school and does not have a familiar, as their spellbook is better than normal.
