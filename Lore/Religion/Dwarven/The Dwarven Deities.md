@@ -1,25 +1,28 @@
 # Deity of Cecia:
 ## The Dwarven Deities
- - [Dagnath of Death and Knowledge. (Greater)](...)
+ ## [Dagnath of Death and Knowledge](Dagnath/Introduction.md "Dagnath of Death and Knowledge")
+    - Rank: Greater Ancestor-God
     - Alignment: Neutral (N)
-    - Portfolio: Death, Knowledge, Ancestral Legacy, Protection of Heritage.
-    - Domain: Death, Dwarf, Knowledge, Runes
+    - Portfolio: Death, Knowledge, Ancestral Legacy, Protection of Heritage, Runes
+    - Domain: Death, Knowledge, Runes, Ancestral, Heritage
     - Worshipers: Adventurers, Scholars, Historians, and guardians of cultural legacies
 
-- Duun (Greater)
-    - Rank: Greater Ancestor-God
-    - Alignment: Lawful Neutral (LN)
-    - Portfolio: Craftsmanship, Runecraft, Mining, Royalty
-    - Domain: Law, Forge, Cavern, Dwarf, Runes
-    - Worshipers: Miners, Royalty, Craftsmen, Rune Masters
-    - Symbol: Hammer and Anvil
+## [Duun of Judges and Royalty](Duun/Introduction.md "Duun of Judges and Royalty")
+- **Rank**: Greater Ancestor-God
+- **Alignment**: Lawful Neutral (LN)
+- **Portfolio**: Courage, Battle, Runecraft, Royalty
+- **Domain**: Law, Forge, Cavern, Dwarf, Runes
+- **Worshipers**: Royalty, Judges, Legal Authorities, Rune Masters, Warriors
+- **Symbol**: Hammer and Anvil
 
-- Nogduur Ashbight (Greater)
-    - Alignment: Neutral Evil (NE)
-    - Portfolio: Deep-Dwarves, Change, Tyranny, Vengeance
-    - Domain: Death, Hatred, Trickery, Tyranny, Dwarf
-    - Worshipers: Outcasts, Revolutionaries, Tyrants
-    - Symbol: Bearded Dwarven Skull
+### [Nogduur Ashbight](Nogduur-Ashbight/Introduction.md "Nogduur Ashbight")
+
+- **Rank**: Greater Ancestor-God
+- **Alignment**: Neutral Evil (NE)
+- **Portfolio**: Deep-Dwarves, Change, Tyranny, Vengeance
+- **Domain**: Death, Hatred, Trickery, Tyranny, Greed
+- **Worshipers**: Outcasts, Revolutionaries, Tyrants
+- **Symbol**: Bearded Dwarven Skull
 
 - Thundar (Intermediate)
     - Alignment: Chaotic Good (CG)
