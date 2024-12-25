@@ -20,17 +20,9 @@ This rune alters the classification of any armor, making it significantly lighte
 
 
 #### **Effect**:  
-The armor inscribed with the Rune of Mithrilweave is reclassified:  
 - **Heavy Armor** becomes **Medium Armor**.  
 - **Medium Armor** becomes **Light Armor**.  
 - **Light Armor** functions as **No Armor** for movement and penalties but retains its protective properties.  
-
-#### **Additional Benefits**:  
-- **Armor Check Penalty**: Reduced to **0**.  
-- **Maximum Dexterity Bonus**: Increases by **+1** for the armor’s new classification.  
-- **Arcane Spell Failure Chance**: Decreases by **10%**.  
-
----
 
 ## **Visual**  
 The rune appears as a lattice of silver threads, woven into the armor like a fine mesh. It glows faintly, giving the impression of ethereal lightness. Encircling the rune are flowing patterns that mimic the natural movements of air currents, symbolizing freedom and ease.  
