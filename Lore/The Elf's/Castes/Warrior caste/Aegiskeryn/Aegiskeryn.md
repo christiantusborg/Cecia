@@ -1,4 +1,4 @@
-# Aegiskeryn – 'Protection Warrior' (Shield Golem)
+#  – 'Protection Warrior' (Shield Golem)
 
 The **Aegiskeryn**, also known as the 'Protection Warrior' or Shield Golem, are the defense forces of the Elves, primarily tasked with safeguarding the Elven forests. Their expertise lies in blending traditional Elven warfare with the natural advantages of their forested homeland.
 
