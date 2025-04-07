@@ -16,13 +16,14 @@
 
 **Location and Difficulty**
 - **Difficulty Scaling:** Increases by +5 for each successive location.
-  - **Location 1:** +0 difficulty (Soul swords always have the soul rune)
+  - **Location 1:** +0 difficulty (When your making Soul swords this first location is always used for the saul rune)
   - **Location 2:** +5 difficulty
   - **Location 3:** +10 difficulty
   - **Location 4:** +15 difficulty
   - **Location 5:** +20 difficulty
   - **Location 6:** +25 difficulty
-  - **Location 7:** +30 difficulty (Soul swords only)
+  - **Location 7:** +30 difficulty (When Location 1 is used for a Soul Rune this Location 7 is available)
+
 
 **Rune Difficulty Categories:**
 - **Simple:** +0 difficulty. The easiest runes to inscribe, requiring minimal skill and preparation.

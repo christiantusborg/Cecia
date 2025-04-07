@@ -23,27 +23,20 @@ Rune of Bannsvík: The sword is especially effective against a specific type of 
 - Rune of Echo Strike: The sword can duplicate the last successful attack it made within the last minute.
 
 - Rune of Gravity Well: The sword can create a localized gravitational field, making it difficult for enemies to move.
-- Rune of Temporal Strike: The sword can briefly slow down time for the wielder, granting extra actions.
-- Rune of Bloodthirsty: The sword gains power from the blood of foes it has wounded, increasing its damage with each hit.
+- 
 - Rune of Chain Lightning: The sword can unleash a chain lightning bolt that arcs between multiple targets.
 - Rune of Phoenix's Flame: The sword can resurrect the wielder once if they are killed in battle, but it loses this power after use.
 - Rune of Songblade: The sword sings an eerie melody when drawn, affecting the emotions of those who hear it.
 - Rune of Harmonizing: The blade attunes with the wielder’s magic, increasing the effectiveness of their spells.
-- Rune of Silencing: The target hit by the sword is rendered mute for a short duration.
 - Rune of Ethereal Chains: The sword can bind ethereal or spectral creatures, preventing them from phasing out.
 - Rune of Widow’s Web: Grants the user enhanced reflexes and the ability to predict an enemy’s movements in combat.
 - Rune of Soul Binding: Then rune is binding a Soul in a weapon crystal.
 - Rune of Soul forcing: Forcing a soul to being bound to a weapon crystal.
-- Rune of Banishing: This rune forces an extraplanar creature back to its proper plane if it fails a special Will save (DC = spell’s save DC - creature’s HD + your caster level)
-- Rune of Berserker, the You gain a +1 bonus to attack and damage rolls made with this magic weapon. In addition, while you are attuned to this weapon, your hit point maximum increases by 1 for each level you have attained. Curse. This axe is cursed, and becoming attuned to it extends the curse to you. As long as you remain cursed, you are unwilling to part with the axe, keeping it within reach at all times. You also have disadvantage on attack rolls with weapons other than this one, unless no foe is within 60 feet of you that you can see or hear.
-- Rune of Disarming: Every attack you make with weapon the change your target is disarmed
 - Rune of KNOCKBACK: Knockback weapons often emit a low, almost inaudible hum when drawn. Whenever a knockback weapon hits its target, it initiates a bull rush attack in addition to dealing normal damage. To resolve the bull rush attempt, treat the projectile as a Medium creature with a +8 Strength bonus. The projectile doesn't provoke an attack of opportunity, and it always tries to push the target as far back as possible. Only ranged weapons can have the knockback ability, and they bestow it on their ammunition.
 - Rune of MORPHING, This can change in any other type of weapon
-- Rune of REVEALING. When hit an invistable target he will be visible can not become visible for X minits
 - Rune of SHADOWSTRIKE: This weapon ingore armor
 - ***Rune of SOULBREAKER: This will affect target with fear
 - ***Rune of the Dark Power: Unleashes a short burst of raw strength but comes with the risk of the user losing control.
-- Rune of the Warrior: Amplifies individual combat prowess.
 - Rune of the Invader: Improves navigation or tactical strategies in unfamiliar territories, drawing from the Romans' expertise in conquering new lands.
 - Rune of Moremi's Sacrifice : When an has fallen
 - Rune of Shiva's Dance: Whirvelwind

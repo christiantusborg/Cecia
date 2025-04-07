@@ -1,0 +1,102 @@
+# ⚔️ **Rune of Berserker**
+
+---
+
+## 1. Rune/Item Name  
+**Rune of Berserker**
+
+---
+
+## 2. Combining (Name Etymology)  
+*Berserker* (Old Norse *berserkr*, meaning “bear-shirt” or “frenzied warrior”) refers to warriors who fought in a trance-like rage. This rune channels that brutal instinct into unstoppable aggression.
+
+---
+
+## 3. Short Description or Core Effect  
+Grants a rage bonus to attack and damage, allows Dexterity to be added to attack rolls, and permanently removes Dexterity from AC and damage. Reducing a creature to 0 HP or less triggers an uncontrollable frenzy. Damage scales with rune location and is multiplied on critical hits per normal 3.5e rules. Each successful hit also has a growing chance to chain into another.
+
+---
+
+## 4. Game Rules
+
+### 4.1 Rune Difficulty  
+**+15 (Hard)** — Significant mechanical and roleplay impact
+
+### 4.2 Rune Rarity  
+**Very Rare** — Restricted to war cults and cursed blades
+
+---
+
+### 4.3 Effect Variation Based on Location
+
+> ⚠ **The following effects apply at *all* rune locations:**  
+> - Add **Dexterity modifier in addition to Strength** on melee attack rolls  
+> - **Dexterity no longer applies** to Armor Class or damage  
+> - All bonuses from this rune are considered **Rage Bonuses**  
+> - **Trigger Berserk on Hit** (see 4.4.1 below)  
+> - **Rune damage bonus is multiplied on a critical hit** using the weapon’s normal multiplier  
+> - After each successful melee hit, roll percentile to possibly gain an **extra immediate attack** (see chart)
+
+| Location | Rage Bonus to Attack | Damage Bonus | % Chance to Chain Extra Attack |
+|----------|----------------------|--------------|-------------------------------|
+| 1        | +1                   | +1           | 5%                            |
+| 2        | +1                   | +2           | 10%                           |
+| 3        | +2                   | +3           | 15%                           |
+| 4        | +2                   | +4           | 20%                           |
+| 5        | +3                   | +5           | 25%                           |
+| 6        | +3                   | +6           | 30%                           |
+| 7        | +4                   | +7           | 35%                           |
+
+
+---
+
+### 4.4 Additional or Specific Rules
+
+#### 4.4.1 **Trigger Berserk on Hit**  
+**When you reduce a creature to 0 HP or less**, you immediately enter a **Berserker Frenzy**:
+
+- You **immediately attack the nearest creature**, whether friend or foe.
+- While frenzied:
+  - You must **attack the closest living target** on your turn—no choice.
+  - You gain:
+    - **+2 morale bonus to Strength**
+    - **+10 ft. movement speed**
+    - **Immunity to fear**
+- You **cannot end the frenzy voluntarily**.
+
+🛑 **To end the frenzy:**
+- A **trusted ally** must:
+  - Spend a **full-round action** to **grapple or restrain** you and Succeed on a **DC 20 Charisma check** or have you **grapple or restrain** for 3 rounds 
+- Until this happens, you continue attacking anything in reach.
+
+---
+
+#### 4.4.2 Critical Hit Effects  
+No special effects beyond multiplying all rune damage bonuses per weapon’s crit multiplier.
+
+---
+
+## 5. Visual  
+The rune resembles **three jagged claw marks** across the flat of the blade, etched in a deep crimson that seems to pulse faintly. When activated, a **low growl** hums from the weapon, and the air nearby smells faintly of blood and steel.
+
+---
+
+## 6. The Legend of the Rune of Berserker  
+Forged by the outcast dwarven smith **Torgrim Madhowl**, the rune was created during a time of desperation and war. After watching his brother Uldrik fall in a blood-fueled rampage, Torgrim crafted the rune in an attempt to immortalize that terrible strength.
+
+The weapon that bore it first—a double-headed greataxe named *Woundhowl*—was said to drink the rage of its wielder and amplify it to terrifying effect. No one who carried it lived a long life.
+
+---
+
+## 7. Description of Creator  
+**Torgrim Madhowl** was once a master runesmith of the Ironmount Forgeclan. After defying the High Runesmith Council and pursuing rune-forms tied to emotions, he was exiled. Obsessed with recreating the berserker state in runeform, he carved his madness into iron. His final work, this rune, was said to be cursed by both gods and ghosts alike.
+
+---
+
+## 8. Visual Representations
+
+### First Weapon with the Rune  
+A massive greataxe wrapped in rusted iron chain, its blade permanently stained a black-red hue. Cracks along the edges emit a faint, angry glow.
+
+### Inspiration for the Rune  
+Torgrim claimed he saw Uldrik’s spirit rise after death in a fury so potent it could shatter steel. That image never left him.

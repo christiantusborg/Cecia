@@ -1,43 +1,38 @@
-# Diety of Anthrotheon Faith
+**📜 One-Page Summary: The Anthrotheon Faith**  
+*Pantheon of Cecia – Seasonal Calendar Format*
 
-## **Zephyron - God of the East Wind and Spring**
+---
 
-- **Alignment:** Neutral Good
+### 🌤️ Overview
+**Religion Name:** The Anthrotheon Faith  
+**Type:** Structured Polytheism  
+**Core Theme:** Divine embodiment of natural forces, moral archetypes, and celestial order
 
-Zephyron, being a gentle and life-giving deity, embodies kindness, benevolence, and a caring attitude towards all living things.
+---
 
-## **Aurorix - Goddess of the Dawn**
+### 🕊️ The Seven Deities
 
-- **Alignment:** Chaotic Good
+| Deity         | Alignment      | Domains                         | Portfolio                                | Holy Day            | Date                     |
+|---------------|----------------|----------------------------------|------------------------------------------|----------------------|--------------------------|
+| **Zephyron**  | Neutral Good   | Nature, Life, Peace             | Spring, wind, growth, kindness           | Day of the First Wind| 1st of Aprimay           |
+| **Aurorix**   | Chaotic Good   | Light, Trickery, Freedom        | Dawn, change, revolution, freedom        | Emberwake            | 11th of Aprimay          |
+| **Thalassar** | Chaotic Neutral| Tempest, Nature, Chaos          | Sea, storms, chaos, wild oaths           | Tidebound Pact       | 1st of Jugust            |
+| **Heliodoros**| Lawful Neutral | Light, Order, Knowledge         | Sun, law, time, civic ritual             | Crown of the Zenith  | 15th of Jugust           |
+| **Nyxara**    | True Neutral   | Twilight, Grave, Knowledge      | Night, memory, secrets, dreams           | Night of Threads     | 15th of Decembary        |
+| **Erebon**    | Neutral Evil   | Trickery, Death, Darkness       | Shadow, fear, ambition, betrayal         | Veilfall             | 1st of Decembary (New Moon)|
+| **Aetherion** | Lawful Good    | Light, Order, Sky (custom)      | Upper sky, harmony, truth, celestial law | Skyward Hour         | 5th of Septober          |
 
-Aurorix, as a bringer of new beginnings and change, represents freedom, spontaneity, and the unpredictability of the dawn.
+---
 
-## **Thalassar - God of the Sea and Storms**
+### 🔔 Calendar Notes (Seasonal Format)
+- **Aprimay:** Early spring
+- **Jugust:** Midsummer
+- **Septober:** Late summer
+- **Decembary:** Longest nights, divine reflection
 
-- **Alignment:** Chaotic Neutral
+---
 
-Thalassar, with his tempestuous and unpredictable nature, personifies the untamed and often chaotic essence of the sea.
-
-## **Heliodoros - God of the Sun**
-
-- **Alignment:** Lawful Neutral
-
-Heliodoros, as the regulator of day and time, embodies order, consistency, and the unchanging passage of the sun across the sky.
-
-## **Nyxara - Goddess of Night and Secrets**
-
-- **Alignment:** True Neutral
-
-Nyxara, associated with the enigmatic aspects of darkness and night, represents balance, mystery, and the unknown.
-
-## **Erebon - God of Darkness and Shadow**
-
-- **Alignment:** Neutral Evil
-
-Erebon, embodying the fears and uncertainties of darkness, leans towards self-interest, manipulation, and the darker aspects of the world.
-
-## **Aetherion - God of the Upper Sky and Light**
-
-- **Alignment:** Lawful Good
-
-Aetherion, as a symbol of the divine light and the pure air of the heavens, personifies order, justice, and the higher ideals of goodness and purity.
+### 🧭 Observance Guidelines
+- **Major Festivals:** Public rituals, shared meals, symbolic acts of devotion
+- **Worshipers:** Often dedicate days or weeks to their patron deity
+- **Clergy:** Lead seasonal rites based on natural phenomena and celestial positions
