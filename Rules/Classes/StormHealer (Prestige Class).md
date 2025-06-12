@@ -5,11 +5,11 @@ The StormHealers are divine warriors of Thundar, channeling the chaotic energy o
 #### Requirements
 
 - **Base Attack Bonus**: +5
-- **Skills**: Knowledge (religion) 8 ranks
+- **Skills**: Knowledge (ature) 8 ranks
 - **Alignment**: Any chaotic
 - **Feats**: Endurance, Lightning Reflexes
-- **Special**: Must have been struck by lightning or survived a significant natural storm (usually part of a sacred ritual to Thundar).
-- **Special**: Must know the **Rune of Thurgar-Thum**.
+- **Special**: Must have been struck by lightning more then ones.
+
 
 #### Class Features
 

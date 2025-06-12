@@ -55,6 +55,8 @@ une of the Arcane Archer: The wearer's ranged attacks ignore half cover.
 - *** Rune of Acidic: The blade corrodes the armor and weapons of opponents, reducing their effectiveness. 
 - *** Rune of Soul Splitter: On a critical hit, the sword can temporarily split the target's soul, causing confusion or fear.
 
+# Body Rune:
+
 # Armor Rune:
 - Anvil's Aegis - Grants the wearer additional protection against critical hits.
 - Forgefire Mantle - Provides resistance to fire damage.
