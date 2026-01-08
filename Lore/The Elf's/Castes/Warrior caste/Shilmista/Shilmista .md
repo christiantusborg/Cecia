@@ -2,6 +2,7 @@
 
 ![Insignia Akh'Faer](Insignia_Shilmista.png)
 
+Leader: Arch-Strategos Kaelen Voss
 ## Role:
 ### Function:
 - Specialize in stealth operations, ambush tactics, and covert missions.
