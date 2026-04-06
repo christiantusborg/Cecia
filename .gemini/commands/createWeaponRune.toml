@@ -1,0 +1,2 @@
+description = "Invoke the weapon-rune agent to design a new D&D 3.5 weapon rune for the Cecia setting."
+prompt = "@weapon-rune I'd like to create a new weapon rune. Please guide me through the design process. {{args}}"

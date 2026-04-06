@@ -1,13 +1,38 @@
 ## Weapon runes:
- - **Rune of Dharzil Guard**: The sword can parry attacks, granting an armor class bonus when wielded.
- - **Rune of Eldhrun**: The sword bursts into flames when drawn, dealing extra fire damage on successful hits.
-- **Rune of Eldhrun:** The sword bursts into flames when drawn, dealing extra fire damage on successful hits.
-- **Rune of Venombite:** The blade is coated with a potent poison, delivering poison damage with each hit.
-- **Rune of Dharzil Guard:** The sword can parry attacks, granting an armor class bonus when wielded.
-- **Rune of Farafljót:** - "Swift Journey," denoting rapid movement through time.
-- Rune of Rune of Fasthámarr: The sword can bypass armor and strike ethereal or incorporeal creatures.
-- Rune of Galdrastafur: The weapon can store a spell that can be released with an attack.
-Rune of Bannsvík: The sword is especially effective against a specific type of creature (e.g., dragons, undead, or giants).
+- [Rune of Dharzil Guard](Descriptions/Weapon/Dharzil_Rune/Rune_of_Dharzil_Guard.md): The sword can parry attacks, granting an armor class bonus when wielded.
+- [Rune of Eldhrun](Descriptions/Weapon/Eldhrun_Rune/Rune_of_Eldhrun.md): The sword bursts into flames when drawn, dealing extra fire damage on successful hits.
+- [Runemár-Kríg (Rune of Battle)](Descriptions/Weapon/Runemar-Krig/Runemár-Kríg.md): Enhances accuracy with absolute clarity and control.
+- [Rune of Bannsvík](Descriptions/Weapon/Rune_of_Bannsvík/Rune_of_Bannsvík.md): Especially effective against a specific type of creature.
+- [Rune of Bannzûkh-Varr](Descriptions/Weapon/Rune%20of%20Bannzûkh-Varr/Rune%20of%20Bannzûkh-Varr.md): Forces extraplanar creatures to be banished to their home plane.
+- [Rune of Berserker](Descriptions/Weapon/Rune%20of%20Berserker/Rune%20of%20Berserker): Channels brutal instinct into unstoppable aggression and frenzy.
+- [Rune of Blóðrenna](Descriptions/Weapon/Rune%20of%20Blóðrenna/Rune%20of%20Blóðrenna.md): Inflicts bleeding wounds that intensify with consecutive hits.
+- [Rune of Disarming (Vápnfellrún)](Descriptions/Weapon/Rune%20of%20Disarming%20-%20Vápnfellrún/Rune%20of%20Disarming%20-%20Vápnfellrún.md): Attempts to disarm the opponent on successful strikes.
+- [Rune of Draugr-Keðja](Descriptions/Weapon/Rune_of_Draugr-Keðja/Rune_of_Draugr-Keðja.md): Binds ethereal or spectral creatures, preventing them from phasing out.
+- [Rune of Farafljót](Descriptions/Weapon/Rune%20of%20Farafljót/Rune%20of%20Farafljót.md): Allows the wielder to slow down time, granting extra actions.
+- [Rune of Fasthámarr](Descriptions/Weapon/Rune_of_Fasthámarr/Rune_of_Fasthámarr.md): Bypasses armor and strikes ethereal or incorporeal creatures.
+- [Rune of Fjarlar-Fyr](Descriptions/Weapon/Rune_of_Fjarlar-Fyr/Rune_of_Fjarlar-Fyr.md): Can resurrect the wielder once if they are killed in battle.
+- [Rune of Galdr-Sleit (Arcane Feedback)](Descriptions/Weapon/Rune_of_Galdr-Sleit/Rune_of_Galdr-Sleit.md): Interferes with spellcasting, scaling from a mere distraction to a total suppression of magical abilities.
+- [Rune of the Gladiator](Descriptions/Weapon/Rune_of_the_Gladiator/Rune_of_the_Gladiator.md): The wielder gains immediate proficiency with the weapon bearing this rune.
+- [Rune of Hálfsýn](Descriptions/Weapon/Rune%20of%20Hálfsýn/Rune%20of%20Hálfsýn.md): Reveals invisible or concealed targets.
+- [Rune of Hjartskipti](Descriptions/Weapon/Rune%20of%20Hjartskipti/Rune%20of%20Hjartskipti.md): Splits the target's soul on a critical hit, inducing confusion or fear.
+- [Rune of Ljósvaki-Rún (Blinding Light)](Descriptions/Weapon/Rune_of_Ljósvaki-Rún/Rune_of_Ljósvaki-Rún.md): Emits radiant light, scaling from a simple glow to a blinding sunburst.
+- [Rune of Mykr-Stinga](Descriptions/Weapon/Rune%20of%20%20Mykr-Stinga/Rune%20of%20%20Mykr-Stinga.md): Bypasses physical defenses, phasing through armor to strike directly.
+- [Rune of Phoenix's Flame](Descriptions/Weapon/Rune_of_Phoenix_Flame/Rune_of_Phoenix_Flame.md): Consumes itself to resurrect the wielder once, potentially causing other runes to shift slots.
+- [Rune of Silencing (Thrungmódd)](Descriptions/Weapon/Rune%20of%20Silencing%20-%20Thrungmódd/Rune%20of%20Silencing%20-%20Thrungmódd.md): Renders enemies unable to speak or use verbal components.
+- [Rune of Thurgar-Thum](Descriptions/Weapon/Rune_of_Thurgar-Thum/Rune_of_Thurgar-Thum.md): Emits a deafening boom on a critical hit, stunning the target.
+- [Rune of Venombite](Descriptions/Weapon/Rune_of_Venombite/Rune_of_Venombite.md): Coated with a potent venom, delivering poison damage and strength penalties.
+- [Rune of Skarsharp](Descriptions/Weapon/Skarsharp_Rune/Skarsharp_Rune.md): Imbues a sword with unparalleled sharpness, broadening critical threat range.
+- [Rune of Skareggrún](Descriptions/Weapon/Rune_of_Skareggrún/Rune_of_Skareggrún.md): The weapon's threat range for critical hits is doubled at slot 1 and tripled at slot 6.
+- [Tíðhveldr (Time-Turner)](Descriptions/Weapon/Tíðhveldr/Tíðhveldr.md): Distorts time for the wielder, allowing additional actions.
+
+### Forbidden Runes:
+- [Rune of the Dark Power (Myrkr-Máttr)](Descriptions/Weapon/Rune_of_the_Dark_Power/Rune_of_the_Dark_Power.md): Unleashes raw strength at the cost of the wielder's life-force and risk of frenzy.
+- [Rune of Kvöl-Rún (Infinite Agony)](Descriptions/Weapon/Rune_of_Kvöl-Rún/Rune_of_Kvöl-Rún.md): Inflicts permanent, magical agony that relives traumatic memories.
+- [Rune of Sáluskiljandi (Soul Splitter)](Descriptions/Weapon/Rune_of_Sáluskiljandi/Rune_of_Sáluskiljandi.md): Inflicts a temporary spiritual fracture, draining Wisdom and causing fear.
+- [Rune of Sluaghkarz (Acidic)](Descriptions/Weapon/Rune_of_Sluaghkarz/Rune_of_Sluaghkarz_description.md): Deals acid damage and corrodes armor and weapons.
+- [Rune of Varrum-Tor](Descriptions/Weapon/Rune_of_Varrum-Tor/Rune_of_Varrum-Tor.md): Creates a sentient, malevolent blade that seeks to dominate its wielder.
+- [Rune of Vordal Lifedrinker](Descriptions/Weapon/Vordal_Lifedrinker_Rune/Rune_of_Vordal_Lifedrinker.md): Drains the life force of foes, healing the wielder with each hit.
+- [Rune of Myrkrstinga](Descriptions/Weapon/Rune%20of%20Myrkrstinga/Rune%20of%20Myrkrstinga.md): Deals harmful energy damage, weakening the target's strength.
 
 ### TODO
 
@@ -15,17 +40,13 @@ Rune of Bannsvík: The sword is especially effective against a specific type of 
 
 - Rune of Thundering: The sword emits a deafening boom on a critical hit, stunning the target.
 
-- Rune of Arcane Feedback: When the sword hits a spellcaster, it has a chance to disrupt their spellcasting.
-
 - Rune of Thunderclap: On a critical hit, the sword creates a shockwave, damaging nearby foes.
 - Rune of the Giant Slayer: The sword is particularly effective against larger creatures, dealing bonus damage.
-- Rune of Blinding Light: The sword emits a blinding flash, causing temporary blindness in opponents.
 - Rune of Echo Strike: The sword can duplicate the last successful attack it made within the last minute.
 
 - Rune of Gravity Well: The sword can create a localized gravitational field, making it difficult for enemies to move.
 - 
 - Rune of Chain Lightning: The sword can unleash a chain lightning bolt that arcs between multiple targets.
-- Rune of Phoenix's Flame: The sword can resurrect the wielder once if they are killed in battle, but it loses this power after use.
 - Rune of Songblade: The sword sings an eerie melody when drawn, affecting the emotions of those who hear it.
 - Rune of Harmonizing: The blade attunes with the wielder’s magic, increasing the effectiveness of their spells.
 - Rune of Ethereal Chains: The sword can bind ethereal or spectral creatures, preventing them from phasing out.
@@ -36,7 +57,6 @@ Rune of Bannsvík: The sword is especially effective against a specific type of 
 - Rune of MORPHING, This can change in any other type of weapon
 - Rune of SHADOWSTRIKE: This weapon ingore armor
 - ***Rune of SOULBREAKER: This will affect target with fear
-- ***Rune of the Dark Power: Unleashes a short burst of raw strength but comes with the risk of the user losing control.
 - Rune of the Invader: Improves navigation or tactical strategies in unfamiliar territories, drawing from the Romans' expertise in conquering new lands.
 - Rune of Moremi's Sacrifice : When an has fallen
 - Rune of Shiva's Dance: Whirvelwind
@@ -44,16 +64,7 @@ Rune of Bannsvík: The sword is especially effective against a specific type of 
 - Rune of grip:
 - Rune of Khand:
 une of the Arcane Archer: The wearer's ranged attacks ignore half cover.
-- Rune of the Gladiator: The User gains proficiency in type of weapon.
-
-
-
-### Forbidden Runes:
-- **Rune of Vordal Lifedrinker:** The sword drains the life force of foes, healing the wielder with each hit.
-- **Rune of Myrkrstinga:** (Darkness Stinger) The sword deals harmful energy damage, weakening the target's strength on successful hits
-- Rune of Agony: When your hit by this weapon you in pain forticute required
-- *** Rune of Acidic: The blade corrodes the armor and weapons of opponents, reducing their effectiveness. 
-- *** Rune of Soul Splitter: On a critical hit, the sword can temporarily split the target's soul, causing confusion or fear.
+- Rune of the undead (Disrupting): On a successful hit against undead, the sword disrupts their essence.
 
 # Body Rune:
 
@@ -159,4 +170,3 @@ Vanguard’s Vigil - Armor provides a bonus to Initiative.
 
 
 - Rune of the undead (Disrupting): On a successful hit against undead, the sword disrupts their essence.
-
