@@ -34,139 +34,208 @@
 - [Rune of Vordal Lifedrinker](Descriptions/Weapon/Vordal_Lifedrinker_Rune/Rune_of_Vordal_Lifedrinker.md): Drains the life force of foes, healing the wielder with each hit.
 - [Rune of Myrkrstinga](Descriptions/Weapon/Rune%20of%20Myrkrstinga/Rune%20of%20Myrkrstinga.md): Deals harmful energy damage, weakening the target's strength.
 
-### TODO
-
-- Rune of Keen edge: The sword's edge is razor-sharp, increasing the critical threat range.
-
-- Rune of Thundering: The sword emits a deafening boom on a critical hit, stunning the target.
-
-- Rune of Thunderclap: On a critical hit, the sword creates a shockwave, damaging nearby foes.
-- Rune of the Giant Slayer: The sword is particularly effective against larger creatures, dealing bonus damage.
-- Rune of Echo Strike: The sword can duplicate the last successful attack it made within the last minute.
-
-- Rune of Gravity Well: The sword can create a localized gravitational field, making it difficult for enemies to move.
-- 
-- Rune of Chain Lightning: The sword can unleash a chain lightning bolt that arcs between multiple targets.
-- Rune of Songblade: The sword sings an eerie melody when drawn, affecting the emotions of those who hear it.
-- Rune of Harmonizing: The blade attunes with the wielder’s magic, increasing the effectiveness of their spells.
-- Rune of Ethereal Chains: The sword can bind ethereal or spectral creatures, preventing them from phasing out.
-- Rune of Widow’s Web: Grants the user enhanced reflexes and the ability to predict an enemy’s movements in combat.
-- Rune of Soul Binding: Then rune is binding a Soul in a weapon crystal.
-- Rune of Soul forcing: Forcing a soul to being bound to a weapon crystal.
-- Rune of KNOCKBACK: Knockback weapons often emit a low, almost inaudible hum when drawn. Whenever a knockback weapon hits its target, it initiates a bull rush attack in addition to dealing normal damage. To resolve the bull rush attempt, treat the projectile as a Medium creature with a +8 Strength bonus. The projectile doesn't provoke an attack of opportunity, and it always tries to push the target as far back as possible. Only ranged weapons can have the knockback ability, and they bestow it on their ammunition.
-- Rune of MORPHING, This can change in any other type of weapon
-- Rune of SHADOWSTRIKE: This weapon ingore armor
-- ***Rune of SOULBREAKER: This will affect target with fear
-- Rune of the Invader: Improves navigation or tactical strategies in unfamiliar territories, drawing from the Romans' expertise in conquering new lands.
-- Rune of Moremi's Sacrifice : When an has fallen
-- Rune of Shiva's Dance: Whirvelwind
-- ***Rune of Narasimha's Wrath
-- Rune of grip:
-- Rune of Khand:
-une of the Arcane Archer: The wearer's ranged attacks ignore half cover.
-- Rune of the undead (Disrupting): On a successful hit against undead, the sword disrupts their essence.
+### TODO (Completed)
+- [Rune of Keen Edge](Descriptions/Weapon/Rune_of_Keen_Edge.md): The sword's edge is razor-sharp, increasing the critical threat range.
+- [Rune of Thundering](Descriptions/Weapon/Rune_of_Thundering.md): The sword emits a deafening boom on a critical hit, stunning the target.
+- [Rune of Thunderclap](Descriptions/Weapon/Rune_of_Thunderclap.md): On a critical hit, the sword creates a shockwave, damaging nearby foes.
+- [Rune of the Giant Slayer](Descriptions/Weapon/Rune_of_Giant_Slayer.md): The sword is particularly effective against larger creatures, dealing bonus damage.
+- [Rune of Echo Strike](Descriptions/Weapon/Rune_of_Echo_Strike.md): The sword can duplicate the last successful attack it made within the last minute.
+- [Rune of Gravity Well](Descriptions/Weapon/Rune_of_Gravity_Well.md): The sword can create a localized gravitational field, making it difficult for enemies to move.
+- [Rune of Chain Lightning](Descriptions/Weapon/Rune_of_Chain_Lightning.md): The sword can unleash a chain lightning bolt that arcs between multiple targets.
+- [Rune of Songblade](Descriptions/Weapon/Rune_of_Songblade.md): The sword sings an eerie melody when drawn, affecting the emotions of those who hear it.
+- [Rune of Harmonizing](Descriptions/Weapon/Rune_of_Harmonizing.md): The blade attunes with the wielder’s magic, increasing the effectiveness of their spells.
+- [Rune of Ethereal Chains](Descriptions/Weapon/Rune_of_Ethereal_Chains.md): The sword can bind ethereal or spectral creatures, preventing them from phasing out.
+- [Rune of Widow’s Web](Descriptions/Weapon/Rune_of_Widows_Web.md): Grants the user enhanced reflexes and the ability to predict an enemy’s movements in combat.
+- [Rune of Soul Binding](Descriptions/Weapon/Rune_of_Soul_Binding.md): Then rune is binding a Soul in a weapon crystal.
+- [Rune of Soul forcing](Descriptions/Weapon/Rune_of_Soul_Forcing.md): Forcing a soul to being bound to a weapon crystal.
+- [Rune of KNOCKBACK](Descriptions/Weapon/Rune_of_Knockback.md): Whenever a knockback weapon hits its target, it initiates a bull rush attack.
+- [Rune of MORPHING](Descriptions/Weapon/Rune_of_Morphing.md): This can change in any other type of weapon.
+- [Rune of SHADOWSTRIKE](Descriptions/Weapon/Rune_of_Shadowstrike.md): This weapon ignores armor.
+- [Rune of SOULBREAKER](Descriptions/Weapon/Rune_of_Soulbreaker.md): This will affect target with fear.
+- [Rune of the Invader](Descriptions/Weapon/Rune_of_Invader.md): Improves navigation or tactical strategies in unfamiliar territories.
+- [Rune of Moremi's Sacrifice](Descriptions/Weapon/Rune_of_Moremis_Sacrifice.md): When an ally has fallen, provides a morale boost.
+- [Rune of Shiva's Dance](Descriptions/Weapon/Rune_of_Shivas_Dance.md): Whirlwind attack.
+- [Rune of Narasimha's Wrath](Descriptions/Weapon/Rune_of_Narasimhas_Wrath.md): Savage fury and spectral claws.
+- [Rune of grip](Descriptions/Weapon/Rune_of_Grip.md): Prevents being disarmed.
+- [Rune of Khand](Descriptions/Weapon/Rune_of_Khand.md): Enhanced fluidity for curved blades.
+- [Rune of the Arcane Archer](Descriptions/Weapon/Rune_of_Arcane_Archer.md): The wearer's ranged attacks ignore half cover.
+- [Rune of the undead (Disrupting)](Descriptions/Weapon/Rune_of_Undead_Disrupting.md): Disrupts essence of undead.
 
 # Body Rune:
+- [Rune of Uruz](Descriptions/Body/Rune_of_Uruz.md): Boost to Strength +2.
+- [Rune of Araz](Descriptions/Body/Rune_of_Araz.md): Boost to Constitution +2.
+- [Rune of Kenaz](Descriptions/Body/Rune_of_Kenaz.md): Bonus to Intelligence +2.
+- [Rune of Zanek](Descriptions/Body/Rune_of_Zanek.md): Bonus to Wisdom +2.
+- [Rune of Ansuz](Descriptions/Body/Rune_of_Ansuz.md): Bonus to Charisma +2.
+- [Rune of Aleguard](Descriptions/Body/Rune_of_Aleguard.md): Immunity to poisons.
+- [Rune of Jera](Descriptions/Body/Rune_of_Jera.md): Healing rune (1d6).
+- [Rune of Perthro](Descriptions/Body/Rune_of_Perthro.md): Luck or glimpse of the future.
+- [Rune of Tiwaz](Descriptions/Body/Rune_of_Tiwaz.md): True Strike effect.
+- [Rune of Berkano](Descriptions/Body/Rune_of_Berkano.md): Empower fertility and growth.
+- [Rune of Wunjo](Descriptions/Body/Rune_of_Wunjo.md): Morale boost, immune to fear.
+- [Rune of Gebo](Descriptions/Body/Rune_of_Gebo.md): Mind link between characters.
+- [Rune of Nauthiz](Descriptions/Body/Rune_of_Nauthiz.md): Geas/Quest oath rune.
+- [Rune of the Rose](Descriptions/Body/Rune_of_the_Rose.md): Heals or rejuvenates.
+- [Rune of the Night's Watch](Descriptions/Body/Rune_of_the_Nights_Watch.md): Strengthens bonds and loyalty.
+- [Rune of the Clipper](Descriptions/Body/Rune_of_the_Clipper.md): Improved agility and speed.
+- [Rune of the Badlands](Descriptions/Body/Rune_of_the_Badlands.md): Enhances survival skills.
+- [Rune of the Master](Descriptions/Body/Rune_of_the_Master.md): Boosts the ability master a skill.
+- [Rune of Uruz](Descriptions/Body/Rune_of_Uruz.md): Boost to Strength +2.
+- [Rune of Araz](Descriptions/Body/Rune_of_Araz.md): Boost to Constitution +2.
+- [Rune of Kenaz](Descriptions/Body/Rune_of_Kenaz.md): Bonus to Intelligence +2.
+- [Rune of Zanek](Descriptions/Body/Rune_of_Zanek.md): Bonus to Wisdom +2.
+- [Rune of Ansuz](Descriptions/Body/Rune_of_Ansuz.md): Bonus to Charisma +2.
+- [Rune of Aleguard](Descriptions/Body/Rune_of_Aleguard.md): Immunity to poisons.
+- [Rune of Jera](Descriptions/Body/Rune_of_Jera.md): Healing rune (1d6).
+- [Rune of Perthro](Descriptions/Body/Rune_of_Perthro.md): Luck or glimpse of the future.
+- [Rune of Tiwaz](Descriptions/Body/Rune_of_Tiwaz.md): True Strike effect.
+- [Rune of Berkano](Descriptions/Body/Rune_of_Berkano.md): Empower fertility and growth.
+- [Rune of Wunjo](Descriptions/Body/Rune_of_Wunjo.md): Morale boost, immune to fear.
+- [Rune of Gebo](Descriptions/Body/Rune_of_Gebo.md): Mind link between characters.
+- [Rune of Nauthiz](Descriptions/Body/Rune_of_Nauthiz.md): Geas/Quest oath rune.
+- [Rune of the Rose](Descriptions/Body/Rune_of_the_Rose.md): Heals or rejuvenates.
+- [Rune of the Night's Watch](Descriptions/Body/Rune_of_the_Nights_Watch.md): Strengthens bonds and loyalty.
+- [Rune of the Clipper](Descriptions/Body/Rune_of_the_Clipper.md): Improved agility and speed.
+- [Rune of the Badlands](Descriptions/Body/Rune_of_the_Badlands.md): Enhances survival skills.
+- [Rune of the Master](Descriptions/Body/Rune_of_the_Master.md): Boosts the ability master a skill.
+- [Rune of the Relentless](Descriptions/Body/Rune_of_the_Relentless.md): Willpower to fight below 0 HP.
+- [Rune of Deepdelve](Descriptions/Body/Rune_of_Deepdelve.md): Grants darkvision.
+- [Rune of the Seer's Vision](Descriptions/Body/Rune_of_the_Seers_Vision.md): Gains darkvision.
+- [Rune of the Three-Eyed Raven](Descriptions/Body/Rune_of_the_Three_Eyed_Raven.md): Visions or insights future events.
+- [Rune of the Faceless Man](Descriptions/Body/Rune_of_the_Faceless_Man.md): Temporary change in appearance.
+- [Rune of Baron’s Favor](Descriptions/Body/Rune_of_Barons_Favor.md): Protection or boosts charisma.
+- [Rune of Aquatic Adaptation](Descriptions/Body/Rune_of_Aquatic_Adaptation.md): Breathe underwater.
+- [Rune of the Swiftblade](Descriptions/Body/Rune_of_the_Swiftblade.md): Increases base land speed.
+- [Rune of the Blinding Speed](Descriptions/Body/Rune_of_the_Blinding_Speed.md): Move twice speed once per day.
+- [Rune of the Sacred Grove](Descriptions/Body/Rune_of_the_Sacred_Grove.md): Protection against dark magic.
+- [Rune of Raidho](Descriptions/Body/Rune_of_Raidho.md): Additional movement speed (Haste).
+- [Rune of the Ethereal Jaunt](Descriptions/Body/Rune_of_the_Ethereal_Jaunt.md): Become ethereal once per long rest.
+- [Rune of Thurisaz](Descriptions/Body/Rune_of_Thurisaz.md): AC bonus (+2 Natural armor).
 
 # Armor Rune:
-- Anvil's Aegis - Grants the wearer additional protection against critical hits.
-- Forgefire Mantle - Provides resistance to fire damage.
-- Mithrilweave - Reduces armor check penalty by improving flexibility.
-- Boulder's Endurance - Grants hit points while weaing.
-- Deeproot Stand - Grants the wearer stability, making them harder to move or knock down.
-- Stone's Kin - The armor blends with rocky surroundings, granting a bonus to hide in such terrain.
-- Forgeheart - The armor grants resistance to fatigue and exhaustion.
-- Quake Step - The wearer’s steps cause minor tremors, unbalancing foes.
-- Rune of the Phoenix: When the wearer is reduced to 0 hit points, they are instead reduced to 1 hit point (once per long rest).
-- Rune of Camouflage: Gives advantage on stealth checks in natural environments.
-- Rune of Blazing Retaliation: When struck by a melee attack, the armor emits a burst of fire, dealing 1d6 fire damage to the attacker.
-- Rune of the Thunderclap: When the wearer is hit, there’s a chance to emit a thunderous clap that can deafen nearby enemies.
-- Rune of the Guardian: The wearer can cast 'Shield' once per short rest without having the spell.
-- Rune of the Sylph: The wearer moves silently, granting advantage on moves to avoid being heard.
-- Rune of Lightness: Reduces the weight of the armor by half, increasing the wearer's speed by 5 feet.
-- Rune of the Ethereal Jaunt: Once per long rest, the wearer can become ethereal for 1 round.
-- Rune of the Mimic: The armor can change its appearance at the wearer’s will, perfect for disguises.
-- Rune of the Shadowstep: Once per long rest, the wearer can teleport up to 30 feet to an unoccupied space they can see.
-- Rune of the Serpent's Coils: Grants the wearer advantage on escaping grapples and restraints.
-- Rune of the Ethereal Armor: Once per long rest, the wearer can cause their armor to grant them the effects of the "Blink" spell for 1 minute.
-- Rune of the Swiftblade: Increases the wearer's base land speed by 5 feet.
-- Rune of the Battlecaster: Allows the wearer to ignore arcane spell failure from armor for spells up to 1st level. (+1 time each rune added)
-- Rune of the Seer's Vision: The wearer gains darkvision up to 30 feet.
-- Rune of the Blinding Speed: Once per day, the wearer can move twice their normal speed without incurring attacks of opportunity.
-- Rune of the Juggernaut's March: The wearer's armor does not slow their speed, even if it is medium or heavy armor.
-- Rune of the Yawning Abyss: level/3 per day, the wearer can invoke a rune to terrify enemies, when he is hit, causing them to become frightened as per - gainst flames.
-- Rune of the Three-Eyed Raven: Offers brief visions or insights future events.
-- Rune of the Faceless Man: Allows a temporary change in appearance or grants enhanced stealth abilities.
-- Rune of Baron’s Favor: Provides protection or boosts charisma, allowing for better negotiation or diplomacy.
-- Rune of the Rose: Heals or rejuvenates
-- Rune of the Night's Watch: Strengthens bonds and loyalty among a group.
-- Rune of the Clipper: Enhances martial prowess, granting improved agility and speed.
-- Rune of the Badlands: Enhances survival skills, such as finding water or shelter in the wastelands.
-- Rune of the Master: Boosts the ability master a skill.
-- Rune of the Fort: Strengthens defenses or structures, making them harder to penetrate.
-- Rune of Uruz, grant a  boost to Strength +2
-- Rune of Araz, grant a  boost to Constitution. +2
-- Rune of Thurisaz, serve as a protective ward, granting an AC bonus. (+2 Natural armor)
-- Rune of Ansuz, grant a bonus to Charisma +2
-- Rune of Raidho, Used to enhance movement, granting additional movement speed (Haste one round)
-- Rune of Kenaz grant a bonus to Intelligence +2
-- Rune of Zanek grant a bonus to Wisdom +2
-- Rune of Gebo, create a mind link between two characters, 
-- Rune of Wunjo Provide a morale boost, making you immune to fear
-- Rune of Nauthiz, When version of Geas/Quest, none forcing,  will kill wear for brea- king his oath
-- Rune of Jera, Healing rune (1d6 when aktivated)
-- Rune of Perthro could grant luck or a glimpse of the future, similar to the effects o- f a Divination spell.
-- Rune of Tiwaz could provide bonuses in combat, perhaps giving the True Strike effect.
-- Rune of Berkano ,used  empower fertility.
-- Rune of Grundyr - Increases stability, granting advantage on saving throws against being knocked prone.
-- Rune of Ironroot - Temporarily roots the bearer to the ground, increasing defense but preventing movement.
-- Rune of Anvilheart - The next crafting check is made with advantage, as the rune provides guidance and strength.
-- Rune of Deepdelve - Grants darkvision beyond the normal dwarven range for a short time.
-- Rune of Aleguard - Provides immunity to poisons, particularly from alcohol, for a brief period.
-- Rune of the Sacred Grove: Offers protection against dark magic.
-- Rune of Flooki: Offers the user a trick or illusion, allowing them to deceive their opponents or make a stealthy escape.
-- Rune of the Relentless - Grants the wearer additional willpower to continue fighting even when below 0 hit points.
-Vanguard’s Vigil - Armor provides a bonus to Initiative.
-- Rune of Invisibility: The wearer can become invisible for 10 minutes once per long rest.
-- Rune of Aquatic Adaptation: The wearer can breathe underwater and gains a swimming speed equal to their walking speed.
+- [Rune of the Phoenix](Descriptions/Armour/Rune_of_the_Phoenix.md): Resurrect once per long rest.
+- [Rune of the Battlecaster](Descriptions/Armour/Rune_of_the_Battlecaster.md): Ignore arcane spell failure.
+- [Anvil's Aegis](Descriptions/Armour/Anvils_Aegis.md): Grants the wearer additional protection against critical hits.
+- [Forgefire Mantle](Descriptions/Armour/Forgefire_Mantle.md): Provides resistance to fire damage.
+- [Mithrilweave](Descriptions/Armour/Mithrilweave.md): Reduces armor check penalty by improving flexibility.
+- [Boulder's Endurance](Descriptions/Armour/Boulders_Endurance.md): Grants hit points while wearing.
+- [Deeproot Stand](Descriptions/Armour/Deeproot_Stand.md): Grants the wearer stability.
+- [Stone's Kin](Descriptions/Armour/Stones_Kin.md): The armor blends with rocky surroundings.
+- [Forgeheart](Descriptions/Armour/Forgeheart.md): Resistance to fatigue and exhaustion.
+- [Quake Step](Descriptions/Armour/Quake_Step.md): steps cause minor tremors, unbalancing foes.
+- [Rune of Camouflage](Descriptions/Armour/Rune_of_Camouflage.md): Advantage on stealth checks in natural environments.
+- [Rune of Blazing Retaliation](Descriptions/Armour/Rune_of_Blazing_Retaliation.md): Melee attackers take fire damage.
+- [Rune of the Thunderclap](Descriptions/Armour/Rune_of_the_Thunderclap_Armor.md): Chance to emit thunderous clap when hit.
+- [Rune of the Guardian](Descriptions/Armour/Rune_of_the_Guardian.md): Cast 'Shield' once per short rest.
+- [Rune of the Sylph](Descriptions/Armour/Rune_of_the_Sylph.md): Move silently.
+- [Rune of Lightness](Descriptions/Armour/Rune_of_Lightness.md): Reduces weight and increases speed.
+- [Rune of the Mimic](Descriptions/Armour/Rune_of_the_Mimic.md): Change armor appearance.
+- [Rune of the Shadowstep](Descriptions/Armour/Rune_of_the_Shadowstep.md): Teleport between shadows.
+- [Rune of the Serpent's Coils](Descriptions/Armour/Rune_of_the_Serpents_Coils.md): Advantage on escaping grapples.
+- [Rune of the Ethereal Armor](Descriptions/Armour/Rune_of_the_Ethereal_Armor.md): Effects of 'Blink' spell.
+- [Rune of the Juggernaut's March](Descriptions/Armour/Rune_of_the_Juggernauts_March.md): Armor does not slow speed.
+- [Rune of the Yawning Abyss](Descriptions/Armour/Rune_of_the_Yawning_Abyss.md): Terrify enemies when hit.
+- [Rune of the Fort](Descriptions/Armour/Rune_of_the_Fort.md): Strengthens defenses.
+- [Rune of Grundyr](Descriptions/Armour/Rune_of_Grundyr.md): Increases stability.
+- [Rune of Ironroot](Descriptions/Armour/Rune_of_Ironroot.md): Temporarily roots the bearer.
+- [Rune of Anvilheart](Descriptions/Armour/Rune_of_Anvilheart.md): Guidance for crafting.
+- [Rune of Flooki](Descriptions/Armour/Rune_of_Flooki.md): Trick or illusion.
+- [Vanguard’s Vigil](Descriptions/Armour/Vanguards_Vigil.md): Bonus to Initiative.
+- [Rune of Invisibility](Descriptions/Armour/Rune_of_Invisibility.md): Become invisible.
 
 
 # Utility Runes:
-- Rune of Ingwaz could be used for spells related to nature, growth, or harvesting.
-- Rune of Hearthguard - Protects a dwelling from fire and extreme heat.
-- Rune of Stoneclad - Reinforces the structure of a building, making it resistant to earthquakes and collapses.
-- Rune of Meadbless - Preserves food and drink, keeping it fresh and preventing spoilage.
-- Rune of Veinreader - Indicates when a mining site is near valuable minerals or ores.
-- Rune of Aleflow - Ensures that kegs and barrels never run dry of ale.
-- Rune of Forgekindle - Maintains a forge’s fire at the optimal temperature for metalwork.
-- Rune of Mountbond - Strengthens the bond between a mount and its rider, improving the mount's responsiveness.
-- Rune of Restward - Enhances sleep, ensuring rest is peaceful and rejuvenating.
-- Rune of Clancrest - Marks property as belonging to a particular clan, warding off thieves.
-- Rune of Windbarrier - Protects a dwelling from harsh winds and storms.
-- Rune of Stablegrace - Calms mounts and livestock, ensuring they remain content and well-behaved.
-- Rune of Silentstone - Soundproofs a room, providing a sanctuary of silence.
-- Rune of Ancestral Echo - Allows a dwelling to resonate with the voices of past inhabitants, offering wisdom or warnings.
-- Rune of Glimmerward - A rune that makes precious metals and gems within a dwelling shine brighter, showcasing wealth.
-- Rune of Forgebond - A rune that makes tools and weapons stored within a place remain sharp and rust-free.
-- Rune of Mightystone - Increases the durability of stone structures, preventing wear and tear.
-- Rune of Deepharmony - A rune for underground homes that enhances acoustics and harmony.
-- Rune of Ridgeback - Strengthens the back of a mount, allowing it to carry heavy loads without tiring.
-- Rune of Ironhoof - Hardens the hooves of mounts, giving them better traction and durability.
-- Rune of Caskseal - Seals barrels and casks magically, ensuring their contents are protected from tampering.
-- Rune of Flamefellow - Keeps hearths and fireplaces lit without the need for constant tending.
-- Rune of Ward of Welcoming - A rune often placed on guesthouses, ensuring those who enter feel welcomed and at ease.
-- Rune of Boulderbind - Prevents rockslides by magically stabilizing cliffs and boulder formations near dwellings.
-- Rune of Doorward - Strengthens doors against being forced open or destroyed.
-- Rune of Mantle of the Mountain - Increases the structural integrity of a building, making it as steadfast as a mountain.
-- Rune of Pillarbind - Prevents the collapse of columns and supports within structures.
-- Rune of Grip of the Earth - Causes furniture and objects to remain fixed in place, immune to being knocked over.
-- Rune of Minecall - A rune that leads miners to the nearest veins of ore.
-- Rune of Barrowward - Creates a protective ward against undead, repelling them for a short duration.
-- Rune of Stenvel (Stone Strength) Reflecting the rune's ability to reveal the strength of the mountains.
-- Rune of Jordlät (Earth Ease) Suggesting the ease with which the earth yields its treasures.
-- Rune of Ådrasyn (Vein Sight) - Denoting the rune's power to illuminate hidden wealth.
-- Rune of Djupande (Deep Breath) Evoking the fresh breath of air deep within the mines.
-- Rune of Anchoring: Prevents the wearer from being teleported against their will.
 
+## Permanent Surface Runes
+- [Rune of Ingwaz](Descriptions/Utility/Rune_of_Ingwaz.md) - Enhances crop yields and plant health.
+- [Rune of Hearthguard](Descriptions/Utility/Rune_of_Hearthguard.md) - Protects a dwelling from fire and extreme heat.
+- [Rune of Stoneclad](Descriptions/Utility/Rune_of_Stoneclad.md) - Reinforces the structure of a building.
+- [Rune of Meadbless](Descriptions/Utility/Rune_of_Meadbless.md) - Preserves food and drink, keeping it fresh.
+- [Rune of Veinreader](Descriptions/Utility/Rune_of_Veinreader.md) - Indicates nearby valuable minerals or ores.
+- [Rune of Aleflow](Descriptions/Utility/Rune_of_Aleflow.md) - Ensures that kegs and barrels never run dry.
+- [Rune of Forgekindle](Descriptions/Utility/Rune_of_Forgekindle.md) - Maintains a forge’s fire at the optimal temperature.
+- [Rune of Mountbond](Descriptions/Utility/Rune_of_Mountbond.md) - Strengthens the bond between a mount and its rider.
+- [Rune of Restward](Descriptions/Utility/Rune_of_Restward.md) - Ensures rest is peaceful and rejuvenating.
+- [Rune of Clancrest](Descriptions/Utility/Rune_of_Clancrest.md) - Marks property and wards off thieves.
+- [Rune of Windbarrier](Descriptions/Utility/Rune_of_Windbarrier.md) - Protects a dwelling from harsh winds and storms.
+- [Rune of Stablegrace](Descriptions/Utility/Rune_of_Stablegrace.md) - Calms mounts and livestock.
+- [Rune of Silentstone](Descriptions/Utility/Rune_of_Silentstone.md) - Soundproofs a room, providing silence.
+- [Rune of Ancestral Echo](Descriptions/Utility/Rune_of_Ancestral_Echo.md) - Allows a dwelling to resonate with past voices.
+- [Rune of Glimmerward](Descriptions/Utility/Rune_of_Glimmerward.md) - Makes precious metals and gems shine brighter.
+- [Rune of Forgebond](Descriptions/Utility/Rune_of_Forgebond.md) - Keeps tools and weapons sharp and rust-free.
+- [Rune of Mightystone](Descriptions/Utility/Rune_of_Mightystone.md) - Increases the durability of stone structures.
+- [Rune of Deepharmony](Descriptions/Utility/Rune_of_Deepharmony.md) - Enhances acoustics and harmony in underground homes.
+- [Rune of Ridgeback](Descriptions/Utility/Rune_of_Ridgeback.md) - Strengthens the back of a mount for heavy loads.
+- [Rune of Ironhoof](Descriptions/Utility/Rune_of_Ironhoof.md) - Hardens the hooves of mounts for better durability.
+- [Rune of Caskseal](Descriptions/Utility/Rune_of_Caskseal.md) - Seals barrels and casks magically.
+- [Rune of Flamefellow](Descriptions/Utility/Rune_of_Flamefellow.md) - Keeps hearths and fireplaces lit without tending.
+- [Rune of Ward of Welcoming](Descriptions/Utility/Rune_of_Ward_of_Welcoming.md) - Ensures guests feel welcomed and at ease.
+- [Rune of Boulderbind](Descriptions/Utility/Rune_of_Boulderbind.md) - Stabilizes cliffs and boulder formations.
+- [Rune of Doorward](Descriptions/Utility/Rune_of_Doorward.md) - Strengthens doors against being forced open.
+- [Rune of Mantle of the Mountain](Descriptions/Utility/Rune_of_Mantle_of_the_Mountain.md) - Increases structural integrity of a building.
+- [Rune of Pillarbind](Descriptions/Utility/Rune_of_Pillarbind.md) - Prevents the collapse of columns and supports.
+- [Rune of Grip of the Earth](Descriptions/Utility/Rune_of_Grip_of_the_Earth.md) - Causes furniture and objects to remain fixed in place.
+- [Rune of Minecall](Descriptions/Utility/Rune_of_Minecall.md) - Leads miners to the nearest veins of ore.
+- [Rune of Barrowward](Descriptions/Utility/Rune_of_Barrowward.md) - Creates a protective ward against undead.
+- [Rune of Stenvel](Descriptions/Utility/Rune_of_Stenvel.md) - Reveals the structural strength of stone.
+- [Rune of Jordlät](Descriptions/Utility/Rune_of_Jordlät.md) - Makes the earth yield its treasures more easily.
+- [Rune of Ådrasyn](Descriptions/Utility/Rune_of_Ådrasyn.md) - Illuminates hidden wealth within the rock.
+- [Rune of Djupande](Descriptions/Utility/Rune_of_Djupande.md) - Evokes fresh air deep within the mines.
+- [Rune of Anchoring](Descriptions/Utility/Rune_of_Anchoring.md) - Prevents forced teleportation or planar shifting.
+- [Rune of Shaftguard](Descriptions/Utility/Rune_of_Shaftguard.md) - Prevents localized cave-ins in mine shafts.
+- [Rune of Gas-Sniffer](Descriptions/Utility/Rune_of_Gas-Sniffer.md) - Detects toxic gases and foul air in deep tunnels.
+- [Rune of Water-Well](Descriptions/Utility/Rune_of_Water-Well.md) - Locates underground water sources and springs.
+- [Rune of Rock-Biter](Descriptions/Utility/Rune_of_Rock-Biter.md) - Temporarily softens hard stone for easier excavation.
+- [Rune of Pure-Stream](Descriptions/Utility/Rune_of_Pure-Stream.md) - Purifies water of diseases and toxins.
+- [Rune of Vermin-Bane](Descriptions/Utility/Rune_of_Vermin-Bane.md) - Keeps insects, rodents, and other pests away.
+- [Rune of Hearth-Warmth](Descriptions/Utility/Rune_of_Hearth-Warmth.md) - Maintains a comfortable temperature in cold environments.
+- [Rune of Sun-Sigil](Descriptions/Utility/Rune_of_Sun-Sigil.md) - Provides a steady source of magical light.
+- [Rune of Gear-Glid](Descriptions/Utility/Rune_of_Gear-Glid.md) - Lubricates and maintains mechanical gears and machinery.
+- [Rune of Steam-Vessel](Descriptions/Utility/Rune_of_Steam-Vessel.md) - Regulates pressure in steam-powered industrial equipment.
+- [Rune of Load-Lift](Descriptions/Utility/Rune_of_Load-Lift.md) - Reduces the effective weight of heavy cargo.
+- [Rune of Metal-Meld](Descriptions/Utility/Rune_of_Metal-Meld.md) - Assists in the welding and fusing of metal components.
+- [Rune of Sentry-Eye](Descriptions/Utility/Rune_of_Sentry-Eye.md) - Provides an invisible alarm against intruders.
+- [Rune of Lock-Vault](Descriptions/Utility/Rune_of_Lock-Vault.md) - Reinforces locks against physical and magical tampering.
+- [Rune of Trap-Tripper](Descriptions/Utility/Rune_of_Trap-Tripper.md) - Detects and identifies mechanical traps nearby.
+- [Rune of Blood-Key](Descriptions/Utility/Rune_of_Blood-Key.md) - Restricts access to specific lineages or individuals.
+- [Rune of Echo-Call](Descriptions/Utility/Rune_of_Echo-Call.md) - Allows long-distance voice communication between linked runes.
+- [Rune of Salt-Savor](Descriptions/Utility/Rune_of_Salt-Savor.md) - Seasons and preserves meat and other foodstuffs.
+- [Rune of Dust-Douse](Descriptions/Utility/Rune_of_Dust-Douse.md) - Settles coal and stone dust in the air for safer breathing.
+- [Rune of Tread-Sure](Descriptions/Utility/Rune_of_Tread-Sure.md) - Prevents slipping on wet or oily stone surfaces.
 
-- Rune of the undead (Disrupting): On a successful hit against undead, the sword disrupts their essence.
+## Instantaneous Air Runes
+- [Rune of Flash-Step](Descriptions/Utility/Rune_of_Flash-Step.md) - An air rune for short-range instantaneous movement.
+- [Rune of Shield-Wall](Descriptions/Utility/Rune_of_Shield-Wall.md) - Traces a temporary barrier of force in the air.
+- [Rune of Flare-Burst](Descriptions/Utility/Rune_of_Flare-Burst.md) - Creates a sudden burst of blinding light.
+- [Rune of Gale-Push](Descriptions/Utility/Rune_of_Gale-Push.md) - Unleashes a forceful blast of wind to knock back foes.
+- [Rune of Stone-Shatter](Descriptions/Utility/Rune_of_Stone-Shatter.md) - Causes small stone objects or locks to fracture.
+- [Rune of Mending-Touch](Descriptions/Utility/Rune_of_Mending-Touch.md) - Quickly repairs minor damage to tools or equipment.
+- [Rune of Insight-Gleam](Descriptions/Utility/Rune_of_Insight-Gleam.md) - Briefly reveals hidden objects or invisible creatures.
+- [Rune of Calm-Spirit](Descriptions/Utility/Rune_of_Calm-Spirit.md) - Soothes panicking animals and livestock instantly.
+- [Rune of Haste-Hand](Descriptions/Utility/Rune_of_Haste-Hand.md) - Temporarily boosts the speed of manual tasks.
+- [Rune of Spark-Strike](Descriptions/Utility/Rune_of_Spark-Strike.md) - Ignites flammable materials with a simple gesture.
+- [Rune of Weight-Shift](Descriptions/Utility/Rune_of_Weight-Shift.md) - Briefly alters the gravity acting on an object.
+- [Rune of Sound-Snap](Descriptions/Utility/Rune_of_Sound-Snap.md) - Creates a loud, distracting noise at a distance.
+- [Rune of Frost-Finger](Descriptions/Utility/Rune_of_Frost-Finger.md) - Flash-freezes small surfaces or water containers.
+- [Rune of Heat-Haze](Descriptions/Utility/Rune_of_Heat-Haze.md) - Creates a shimmering distortion to confuse sight.
+- [Rune of Echo-Locate](Descriptions/Utility/Rune_of_Echo-Locate.md) - Maps the layout of nearby tunnels through sound.
+- [Rune of Grip-Lock](Descriptions/Utility/Rune_of_Grip-Lock.md) - Temporarily fuses two objects together in mid-air.
+- [Rune of Scent-Trace](Descriptions/Utility/Rune_of_Scent-Trace.md) - Enhances the user's ability to follow a specific scent.
+- [Rune of Breath-Draft](Descriptions/Utility/Rune_of_Breath-Draft.md) - Provides a sudden puff of fresh, breathable air.
+- [Rune of Gloom-Wove](Descriptions/Utility/Rune_of_Gloom-Wove.md) - Weaves a temporary patch of magical darkness.
+- [Rune of Iron-Hard](Descriptions/Utility/Rune_of_Iron-Hard.md) - Temporarily increases the toughness of handheld gear.
+- [Rune of Quake-Tap](Descriptions/Utility/Rune_of_Quake-Tap.md) - Creates a small, controlled vibration in a touched object.
+- [Rune of Light-Snap](Descriptions/Utility/Rune_of_Light-Snap.md) - Produces a brief, bright flash of light.
+- [Rune of Metal-Ping](Descriptions/Utility/Rune_of_Metal-Ping.md) - Causes a metal object to emit a clear, resonant tone.
+- [Rune of Gravity-Drop](Descriptions/Utility/Rune_of_Gravity-Drop.md) - Briefly triples the weight of an object, causing it to fall or become hard to hold.
+- [Rune of Air-Pocket](Descriptions/Utility/Rune_of_Air-Pocket.md) - Creates a small pocket of fresh, breathable air.
+- [Rune of Heat-Pulse](Descriptions/Utility/Rune_of_Heat-Pulse.md) - Sends a brief wave of intense heat toward a touched point.
+- [Rune of Cold-Snap](Descriptions/Utility/Rune_of_Cold-Snap.md) - Creates a sudden, localized drop in temperature.
+- [Rune of Static-Shock](Descriptions/Utility/Rune_of_Static-Shock.md) - Discharges a small but painful spark of electricity.
+- [Rune of Friction-Burn](Descriptions/Utility/Rune_of_Friction-Burn.md) - Increases the friction of an object's surface intensely for a brief moment.
+- [Rune of Echo-Ping](Descriptions/Utility/Rune_of_Echo-Ping.md) - Emits a sonar-like pulse that helps reveal the surroundings.
+- [Rune of Weight-Lift](Descriptions/Utility/Rune_of_Weight-Lift.md) - Briefly reduces the effective weight of an object.
+- [Rune of Rust-Blast](Descriptions/Utility/Rune_of_Rust-Blast.md) - Causes a sudden burst of corrosive energy that affects non-magical metal.
+- [Rune of Flame-Flick](Descriptions/Utility/Rune_of_Flame-Flick.md) - Produces a tiny, momentary flame at the user's fingertip.
+- [Rune of Water-Whip](Descriptions/Utility/Rune_of_Water-Whip.md) - Condenses moisture from the air into a brief, stinging lash of water.
+- [Rune of Stone-Soothe](Descriptions/Utility/Rune_of_Stone-Soothe.md) - Temporarily softens the surface of stone to allow for easy smoothing or shaping.

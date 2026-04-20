@@ -132,11 +132,13 @@
 - "Limiting yourself to rules limits your chances of winning."
 - (Regarding human lifespan vs. long-term threats): Context suggests patience with shorter-lived allies
 
-## Current Activities
+### Current Activities
 - Coordinates with allies through magical communication
 - Monitors political situations across multiple kingdoms
 - Continues investigation into Eldarim-related threats
+- **Major Achievement (9897 EE):** Successfully hunted and imprisoned the **Eternal Pixie Queen**, the leader of the dangerous secret society known as the **Gilded Harvesters**. This operation was highly classified, as the Queen’s knowledge of elven secrets posed a catastrophic threat.
 - Maintains network of agents and informants
+
 - Occasionally provides direct assistance to trusted allies
 
 ## Tactical Assessment
